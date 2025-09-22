@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Clothes</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Bootstrap CSS v5.2.1 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="stylesheet/shop.css">
+    <link rel="stylesheet" href="stylesheet/style copy.css">
+    <style>
+
+        .sale-section {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  background: url("../images/shop by category/clothes.webp")no-repeat center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0%;
+}
+
+.sale-section::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(6, 6, 6, 0.35);
+}
+
+    </style>
+
+</head>
+
+<body>
+    <header>
+        <!-- place navbar here -->
+        <br><br><br><br><br>
+    </header>
+    <main>
+        <!-- step1 -->
+        <section class="sale-section ">
+            <div class="hero-overlay">
+                <h4>Style Comfort Confidence</h4>
+                <h1>Discover clothes that fit your life and highlight your personality</h1>
+                <a href="" class="btn">Shop Now</a>
+            </div>
+        </section>
+
+        <!-- step2 -->
+        <div class="category-buttons">
+            <button data-category="dresses">Dresses</button>
+            <button data-category="shirts">Shirts</button>
+            <button data-category="casual">Casual</button>
+            <button data-category="western">Western</button>
+            <button data-category="Long dress">Long dress</button>
+            <button data-category="wedding">Wedding</button>
+            <button data-category="party">Party</button>
+        </div>
+
+        <div class="card-container" style="display: flex; justify-content: center;">
+        </div>
+
+        <!-- modal -->
+        <div class="modal" id="buyModal">
+            <div class="modal-content">
+                <span class="close-button">&times;</span>
+                <h2 id="modal-title"></h2>
+                <img id="modal-image" src="" alt="">
+                <p id="modal-price"></p>
+                <div id="modal-details"></div>
+                <button class="add-to-cart-button bg-warning">Add to Cart</button>
+            </div>
+        </div>
+
+
+
+
+    </main>
+    <footer>
+        <br><br><br><br><br>
+    </footer>
+    <script src="./js/clothes.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

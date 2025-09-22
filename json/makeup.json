@@ -1,0 +1,569 @@
+{
+  "lipgloss": [
+    {
+      "name": "3 Packs Moisturizing Lip Gloss with Keychain",
+      "price": "$45.90",
+      "image": "images/shop by category/lipgloss1.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Cat Star Ice Cream Velvet Lip Mud Color Box, Soft and Smooth",
+      "price": "$150",
+      "image": "images/shop by category/lipgloss2.webp"
+    },
+    {
+      "name": "Bear Dye Lipstick Makeup Set 24pcs Keychain Design Convenient",
+      "price": "$3.00",
+      "image": "images/shop by category/lipgloss3.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "4pcs set of cute rabbit velvet lipstick - matte finish",
+      "price": "$150",
+      "image": "images/shop by category/lipgloss4.webp"
+    },
+    {
+      "name": "24-Pack - 6 Color Floral Lipstick Set",
+      "price": "$5.90",
+      "image": "images/shop by category/lipgloss5.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Straw Lipstick 24pcs Set Box",
+      "price": "$0.89",
+      "image": "images/shop by category/lipgloss6.webp"
+    },
+    {
+      "name": "1pc HANBOL Color Changing Lipgloss",
+      "price": "$45.90",
+      "image": "images/shop by category/lipgloss7.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "A set of two, lip care set, cares for dry lips, moisturizes and nourishes",
+      "price": "$150",
+      "image": "images/shop by category/lipgloss8.webp"
+    },
+        {
+      "name": "Extract Lip Oil Glossy Lip Tint Jelly Lip Balm",
+      "price": "$33.76",
+      "image": "images/shop by category/lipgloss9.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "FANTYCHIC Gloss Lip Shine, 6 Colors 24pcs",
+      "price": "$65.67",
+      "image": "images/shop by category/lipgloss10.webp"
+    },
+    {
+      "name": "6 Colors Vibrant Red Lip Oil Gloss & Glaze - Moisturizing Nourishing",
+      "price": "$87.34",
+      "image": "images/shop by category/lipgloss11.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Bowknot Temperature-Responsive Moisturizing Lip Gloss Set",
+      "price": "$50.03",
+      "image": "images/shop by category/lipgloss12.webp"
+    },
+    {
+      "name": "Strawberry Flavored Fine Glitter Lip Oil Jelly",
+      "price": "$98.09",
+      "image": "images/shop by category/lipgloss13.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "12 boxes / Sweetheart Holiday Lip Gloss",
+      "price": "$23.09",
+      "image": "images/shop by category/lipgloss14.webp"
+    },
+    {
+      "name": "Long-Lasting Mirror Lip Gloss - Intense Red/Deep Berry",
+      "price": "$77.89",
+      "image": "images/shop by category/lipgloss15.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": " Lustrous Dewy Finish Moisturizing Shimmer Lip Stain Tinted Lip Balm",
+      "price": "$30.76",
+      "image": "images/shop by category/lipgloss16.webp"
+    }
+  ],
+
+
+  "lipstick": [
+    {
+      "name": "Long-Lasting Matte Lip Glaze, Brown Reddish Orange",
+      "price": "$8.88",
+      "image": "images/shop by category/lipstick1.webp"
+    },
+     {
+      "name": "6pcs Ice Mist Matte Lip mud - Comes with an applicator brush",
+      "price": "$4.80",
+      "image": "images/shop by category/lipstick2.webp"
+    },
+     {
+      "name": "6-Color Matte Lipstick - Long-lasting,, Smudge-proof",
+      "price": "$5.78",
+      "image": "images/shop by category/lipstick3.webp"
+    },
+     {
+      "name": "Long-Lasting Shine & Glitter in Orange, Pink, Red, Nude",
+      "price": "$6.99",
+      "image": "images/shop by category/lipstick4.webp"
+    },
+        {
+      "name": "Langmanni 24pcs Matte Liquid Lipstick Set",
+      "price": "$7.87",
+      "image": "images/shop by category/lipstick5.webp"
+    },
+     {
+      "name": "Matte Finish Long-Lasting Lip Tint with Bear Cap",
+      "price": "$55.45",
+      "image": "images/shop by category/lipstick6.webp"
+    },
+     {
+      "name": "Velvet Matte Lip Cream, Matte Lip Balm, Smooth Long-Lasting Lipstick",
+      "price": "$32.37",
+      "image": "images/shop by category/lipstick7.webp"
+    },
+     {
+      "name": "18-Color Set of Lipstick Capsules, Including Waterproof",
+      "price": "$66.99",
+      "image": "images/shop by category/lipstick8.webp"
+    },
+     {
+      "name": "DIARY Meow Cocoa Lip Glaze Set",
+      "price": "$29.45",
+      "image": "images/shop by category/lipstick9.webp"
+    },
+     {
+      "name": "Natural Finish Long-Lasting Lipstick",
+      "price": "$55.87",
+      "image": "images/shop by category/lipstick10.webp"
+    },
+     {
+      "name": "Luxury Velvet Matte Lipstick with Swan Design",
+      "price": "$32.37",
+      "image": "images/shop by category/lipstick11.webp"
+    }, {
+      "name": "Darkly Lipstick: 3pcs/set Matte Lipstick set, Waterproof",
+      "price": "$62.01",
+      "image": "images/shop by category/lipstick12.webp"
+    }, {
+      "name": "Mini Rabbit Four-Piece Set, Mirror Shine Lip Glaze, Hydrating Lipstick ",
+      "price": "$82.07",
+      "image": "images/shop by category/lipstick13.webp"
+    }, {
+      "name": "5pcs Velvet Matte Lipstick Set - High, Velvety Texture, Suitable",
+      "price": "$75.97",
+      "image": "images/shop by category/lipstick14.webp"
+    }, {
+      "name": "HUASURV Glitter Lipstick - Moisturizing, Color-Changing Lipstick",
+      "price": "$32.37",
+      "image": "images/shop by category/lipstick15.webp"
+    },
+    {
+      "name": "BSIMONE Matte Black & Purple Lipstick",
+      "price": "$32.37",
+      "image": "images/shop by category/lipstick16.webp"
+    }
+  ],
+
+ "brushes": [
+   {
+      "name": "9pcs Toothbrush Type Makeup Brush Set",
+      "price": "$11.90",
+      "image": "images/shop by category/brush1.webp"
+    },
+     {
+      "name": "13pcs Beginner Sky Series Makeup Brush Set",
+      "price": "$43.98",
+      "image": "images/shop by category/brush2.webp"
+    },
+     {
+      "name": "Portable Makeup Brush Set With Glitter Storage Bucke",
+      "price": "$8.90",
+      "image": "images/shop by category/brush3.webp"
+    },
+     {
+      "name": "10pcs Iridescent Purple Makeup Brush Set",
+      "price": "$89.09",
+      "image": "images/shop by category/brush4.webp"
+    },
+        {
+      "name": "9pcs Luxurious Golden Makeup Brush Set with Soft Nylon Bristles",
+      "price": "$77.87",
+      "image": "images/shop by category/brush5.webp"
+    },
+     {
+      "name": "14pcs Professional Makeup Brush Set with 2 Makeup Sponges",
+      "price": "$55.45",
+      "image": "images/shop by category/brush6.webp"
+    },
+     {
+      "name": "16pcs Dreamy Gradient Mermaid Tail Makeup Brush Set",
+      "price": "$32.37",
+      "image": "images/shop by category/brush7.webp"
+    },
+     {
+      "name": "Multifunctional Makeup Brush Set with Glitter Storage Bucket",
+      "price": "$66.99",
+      "image": "images/shop by category/brush8.webp"
+    },
+     {
+      "name": "MAANGE 8pcs Professional Facial Makeup Brush Set",
+      "price": "$29.45",
+      "image": "images/shop by category/brush9.webp"
+    },
+     {
+      "name": "Large Rose Golden Powder Brush with Sparkling Rhinestone Accents",
+      "price": "$65.66",
+      "image": "images/shop by category/brush10.webp"
+    },
+     {
+      "name": "Makeup Foundation Brush Bling Rhinestones 1PC Powder Brush",
+      "price": "$43.33",
+      "image": "images/shop by category/brush11.webp"
+    }, {
+      "name": "16pcs Makeup Brush Set Eye Shadow Brush Full Beginner Soft Powder Brush Set",
+      "price": "$62.01",
+      "image": "images/shop by category/brush12.webp"
+    }, {
+      "name": "5pcs Portable Makeup Brush Set with Mirror",
+      "price": "$75.99",
+      "image": "images/shop by category/brush13.webp"
+    }, {
+      "name": "MAANGE 1pc Foundation Blush Brush, Soft Nylon Bristles",
+      "price": "$21.90",
+      "image": "images/shop by category/brush14.webp"
+    }, {
+      "name": "5pcs New multiple styles makeup brush",
+      "price": "23.34",
+      "image": "images/shop by category/brush15.webp"
+    },
+    {
+      "name": "A Full Set of Portable Makeup Brushes with Mirror Box",
+      "price": "$76.00",
+      "image": "images/shop by category/brush16.webp"
+    }
+  ],
+
+ 
+ "mascara": [
+   {
+      "name": "Curl Styling Mascara Waterproof Slim Long Curling Fine Brush",
+      "price": "$6.98",
+      "image": "images/shop by category/mascara1.webp"
+    },
+     {
+      "name": "2-Pack Waterproof Mascara - Long-Lasting Smudge-Proof",
+      "price": "$0.98",
+      "image": "images/shop by category/mascara2.webp"
+    },
+     {
+      "name": "Super Black Mascara 24pcs - Waterproof, Smudge-Proof, Long-Lasting",
+      "price": "$1.90",
+      "image": "images/shop by category/mascara3.webp"
+    },
+     {
+      "name": "24pcs - Star Shades Waterproof and Sweat-Proof Quic",
+      "price": "$2.09",
+      "image": "images/shop by category/mascara4.webp"
+    },
+        {
+      "name": "4pcs Color, Mascara, Glitter Diamond Shiny Mascara, Waterproo",
+      "price": "$3.87",
+      "image": "images/shop by category/mascara5.webp"
+    },
+     {
+      "name": "6-Pack Full Exposure & Big Volume Mascara, Waterproof Long-Lasting",
+      "price": "$2.45",
+      "image": "images/shop by category/mascara6.webp"
+    },
+     {
+      "name": "24-Hour Wear, Black, Lash Mascara, Quickdry Makeup",
+      "price": "$32.37",
+      "image": "images/shop by category/mascara7.webp"
+    },
+     {
+      "name": "DUNUF 12pcs Brown Mascara Set",
+      "price": "$66.99",
+      "image": "images/shop by category/mascara8.webp"
+    },
+     {
+      "name": "5pcs Set Long-Lasting Mascara, Waterproof and Sweat-Resistant",
+      "price": "$29.45",
+      "image": "images/shop by category/mascara9.webp"
+    },
+     {
+      "name": "3pcs Waterproof Mascara & Eyeliner Combo - Smudge-Resistant Quick-Dry",
+      "price": "$65.66",
+      "image": "images/shop by category/mascara10.webp"
+    },
+     {
+      "name": "Dense Slender Mascara Natural Curling",
+      "price": "$43.33",
+      "image": "images/shop by category/mascara11.webp"
+    }, {
+      "name": "Natural Lash Primer & Curling Styling for Bold, Beautiful Eyes",
+      "price": "$62.01",
+      "image": "images/shop by category/mascara12.webp"
+    }, {
+      "name": "Dual-Head Waterproof Mascara - Volumizing, Lengthening",
+      "price": "$75.99",
+      "image": "images/shop by category/mascara13.webp"
+    }, {
+      "name": "2pcs DUNF Double-Ended Waterproof Mascara",
+      "price": "$21.90",
+      "image": "images/shop by category/mascara14.webp"
+    }, {
+      "name": "SWAYVmin Ultra-Black Mascara with Slim Brush",
+      "price": "23.34",
+      "image": "images/shop by category/mascara15.webp"
+    },
+    {
+      "name": "1pc/2pcs 8D Long-Lasting Waterproof Black Curling Mascara",
+      "price": "$76.00",
+      "image": "images/shop by category/mascara16.webp"
+    }
+  ],
+ 
+ "eyeliner": [
+   {
+      "name": "Long-Lasting, Waterproof, Non-Fading & Non-Smudging",
+      "price": "$6.98",
+      "image": "images/shop by category/eye1.webp"
+    },
+     {
+      "name": "Luxurious Waterproof Long-Wearing Liquid Eyeliner",
+      "price": "$7.98",
+      "image": "images/shop by category/eye2.webp"
+    },
+     {
+      "name": "3pcs-Eyeliner Pen Waterproof Sweatproof Smudge-Proof Fine",
+      "price": "$1.90",
+      "image": "images/shop by category/eye3.webp"
+    },
+     {
+      "name": "Waterproof Liquid Eyeliner Pen - Quick-Dry, Sweat-Resistan",
+      "price": "$8.09",
+      "image": "images/shop by category/eye4.webp"
+    },
+        {
+      "name": "Eyeliner, Eye Makeup, Easy to Use, Green, Waterproof,",
+      "price": "$0.87",
+      "image": "images/shop by category/eye5.webp"
+    },
+     {
+      "name": "VIBELY 2-in-1 Eyebrow & Eyeliner Cream, Waterproof Sweatproof Smudge",
+      "price": "$5.45",
+      "image": "images/shop by category/eye6.webp"
+    },
+     {
+      "name": "17pcs Suit Eyeliner Liquid Pen, Waterproof, Sweat Proof, Smooth",
+      "price": "$3.37",
+      "image": "images/shop by category/eye7.webp"
+    },
+     {
+      "name": "Single Pack Waterproof Sweatproof Eyeliner Pen",
+      "price": "$0.99",
+      "image": "images/shop by category/eye8.webp"
+    },
+     {
+      "name": "Smooth-Glide Black Liquid Eyeliner Pen - Quick Dry, Waterproof & Sweatproof",
+      "price": "$4.45",
+      "image": "images/shop by category/eye9.webp"
+    },
+     {
+      "name": "Waterproof 6pcs/set, Liquid Eyeliner Pen Set",
+      "price": "$6.66",
+      "image": "images/shop by category/eye10.webp"
+    },
+     {
+      "name": "Eyeliner Makeup Eyeliners + 1 Multi-Functional Stencil",
+      "price": "$4.33",
+      "image": "images/shop by category/eye11.webp"
+    }, {
+      "name": "Shedoes Starry Sky Liquid Eyeliner, Black",
+      "price": "$8.01",
+      "image": "images/shop by category/eye12.webp"
+    }, {
+      "name": "3pcs Black Waterproof, Sweat-Resistant, Smudge-Proof Eyeliner",
+      "price": "$7.99",
+      "image": "images/shop by category/eye13.webp"
+    }, {
+      "name": "24pcs-SHEDOES Waterproof Eyeliner Pen in Deep Black",
+      "price": "$2.90",
+      "image": "images/shop by category/eye14.webp"
+    }, {
+      "name": "7-Color Liquid Eyeliner And Eye Shadow Pen, Double-Sided, Long-Lasting",
+      "price": "3.34",
+      "image": "images/shop by category/eye15.webp"
+    },
+    {
+      "name": "2pcs Miss Rose Eyeliner and Eyeshadow Duo, Matte Finish",
+      "price": "$6.00",
+      "image": "images/shop by category/eye16.webp"
+    }
+  ],
+  
+ "blush": [
+   {
+      "name": "12pcs Romantic Love-Themed Lip Cheek Blush Kit",
+      "price": "$0.76",
+      "image": "images/shop by category/blush1.webp"
+    },
+     {
+      "name": "Luxurious Noble Radiant Rouge, [Palace Status] Peony Blush Palette",
+      "price": "$3.08",
+      "image": "images/shop by category/blush2.webp"
+    },
+     {
+      "name": "Shimmering Blush, Long-Lasting, Waterproof And Sweat-Proof",
+      "price": "$1.90",
+      "image": "images/shop by category/blush3.webp"
+    },
+     {
+      "name": "Blush Sticks - Get 3 Colors At Once - Lightweight Matte Texture",
+      "price": "$2.90",
+      "image": "images/shop by category/blush4.webp"
+    },
+        {
+      "name": "7 Color Round Rouge Blush Flash Waterproof Natural Nude Makeup Makeup",
+      "price": "$77.87",
+      "image": "images/shop by category/blush5.webp"
+    },
+     {
+      "name": "Sachino Matte Blush Sticks - Natural Satin Finish",
+      "price": "$55.45",
+      "image": "images/shop by category/blush6.webp"
+    },
+     {
+      "name": "Liquid Lip Gloss Tinted Waterproof Brightening Blush & Highlighter",
+      "price": "$32.37",
+      "image": "images/shop by category/blush7.webp"
+    },
+     {
+      "name": "6-Color Waterproof Blush Palette - Easy-to-Apply, Natural 3D Makeup Look",
+      "price": "$66.99",
+      "image": "images/shop by category/blush8.webp"
+    },
+     {
+      "name": "4pcs Liquid Powder Blush Has Fine Texture and Natural Colo",
+      "price": "$29.45",
+      "image": "images/shop by category/blush9.webp"
+    },
+     {
+      "name": "Cream Blush Stick Low Saturation Vitality Smooth, Waterproof",
+      "price": "$65.66",
+      "image": "images/shop by category/blush10.webp"
+    },
+     {
+      "name": "blush, made from plant extracts, is light in texture",
+      "price": "$43.33",
+      "image": "images/shop by category/blush11.webp"
+    }, {
+      "name": "Waterproof Dual-Ended Blush Stick - Long-Lasting Matte blush",
+      "price": "$62.01",
+      "image": "images/shop by category/blush12.webp"
+    }, {
+      "name": "1-Palettes-in-1 All-in-One Makeup Book Palette with Eyeshadow",
+      "price": "$75.99",
+      "image": "images/shop by category/blush13.webp"
+    }, {
+      "name": "Water Glow Blush Stick Korean Style Whitening Natural Nude",
+      "price": "$21.90",
+      "image": "images/shop by category/blush14.webp"
+    }, {
+      "name": "1pc Lamella Matte Blush Powder Cake - Natural Pink Tone",
+      "price": "23.34",
+      "image": "images/shop by category/blush15.webp"
+    },
+    {
+      "name": "6 Color Peach Powder Blusher High Gloss Makeup Plate",
+      "price": "$76.00",
+      "image": "images/shop by category/blush16.webp"
+    }
+  ],
+
+ 
+ "foundation": [
+   {
+      "name": "Full Coverage Liquid Foundation with Matte Finish, Sweatproof",
+      "price": "$66.98",
+      "image": "images/shop by category/foun1.webp"
+    },
+     {
+      "name": "JOJO DIARY Moisturizing Light Feeling Liquid Foundation Natural Color",
+      "price": "$43.98",
+      "image": "images/shop by category/foun2.webp"
+    },
+     {
+      "name": "Full Coverage Concealer, Pore Hiding Effect, Long-Lasting Control",
+      "price": "$21.90",
+      "image": "images/shop by category/foun3.webp"
+    },
+     {
+      "name": "Shaqinuo Light Foundation - Hydrating BB Cream for All Skin Tones",
+      "price": "$89.09",
+      "image": "images/shop by category/foun4.webp"
+    },
+        {
+      "name": "12-Shade Waterproof Matte Foundation Stick with Golden Edge Design",
+      "price": "$77.87",
+      "image": "images/shop by category/foun5.webp"
+    },
+     {
+      "name": "KISSIO Foundation Stick - Long-Lasting, Blendable",
+      "price": "$55.45",
+      "image": "images/shop by category/foun6.webp"
+    },
+     {
+      "name": "Two-Pack Luxury Moisturizing Concealer & Foundation Stick",
+      "price": "$32.37",
+      "image": "images/shop by category/foun7.webp"
+    },
+     {
+      "name": "Full Coverage Liquid Foundation with Matte Finish, Sweatproof",
+      "price": "$66.99",
+      "image": "images/shop by category/foun8.webp"
+    },
+     {
+      "name": "Two-In-One Concealer Foundation Sticks with Oil Contro",
+      "price": "$29.45",
+      "image": "images/shop by category/foun9.webp"
+    },
+     {
+      "name": "Gege Bear Moisturizing&Softening liquid foundation",
+      "price": "$65.66",
+      "image": "images/shop by category/foun10.webp"
+    },
+     {
+      "name": "[Delicate and Lasting Foundation] Light and thin Light Beige",
+      "price": "$43.33",
+      "image": "images/shop by category/foun11.webp"
+    }, {
+      "name": "FV Waterproof Matte Liquid Foundation - Lightweight, Oil-Free",
+      "price": "$62.01",
+      "image": "images/shop by category/foun12.webp"
+    }, {
+      "name": "Ultra-Lightweight, Long-Lasting, Natural Finish, Medium Coverage",
+      "price": "$75.99",
+      "image": "images/shop by category/foun13.webp"
+    }, {
+      "name": "Liquid Foundation - Natural Finish, Light to Medium Coverage",
+      "price": "$21.90",
+      "image": "images/shop by category/foun14.webp"
+    }, {
+      "name": "PartyQueen Forever 24H Matte Finish Ultra HD mineral liquid foundation",
+      "price": "23.34",
+      "image": "images/shop by category/foun15.webp"
+    },
+    {
+      "name": "Waterproof BB Cream Full Coverage Concealer, Natural/Ivory 1.41OZ",
+      "price": "$7.90",
+      "image": "images/shop by category/foun16.webp"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+/* shopbycategory */
+/* cl0thes */
+/* step1 */
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sale-section {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  background: url("../images/category/upto70sale.jpeg")no-repeat center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0%;
+}
+
+.sale-section::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(6, 6, 6, 0.35);
+}
+
+
+.hero-overlay {
+  position: relative;
+  text-align: center;
+  color: #fff;
+  z-index: 2;
+}
+
+.hero-overlay h4 {
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.hero-overlay h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.hero-overlay .btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #fff;
+  color: #000;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.hero-overlay .btn:hover {
+  background: #000;
+  color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .hero-overlay h1 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sale-section {
+    height: 60vh;
+  }
+
+  .hero-overlay h1 {
+    font-size: 28px;
+  }
+
+  .hero-overlay h4 {
+    font-size: 14px;
+  }
+
+  .hero-overlay .btn {
+    padding: 10px 18px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sale-section {
+    height: 50vh;
+  }
+
+  .hero-overlay h1 {
+    font-size: 22px;
+  }
+}
+
+/* step3 */
+/* cards */
+
+.container-cards {
+  padding: 50px 0px;
+  width: 100%;
+}
+
+/* cards */
+.container-cards .card {
+  height: 100%;
+}
+
+.card img {
+  height: 400px;
+}
+
+.card-button {
+  position: absolute;
+  bottom: 10px;
+  border-style: none;
+  padding: 2px 10px;
+  background-color: #FFD700;
+  color: #470413;
+
+}
+
+.card-btn {
+  background-color: #FFD700;
+  color: #470413;
+  font-weight: 700;
+  border-style: none;
+  padding: 1px 10px;
+}
+
+.card-text p {
+  color: #cc0c39;
+}
+
+.off {
+  background-color: #cc0c39;
+  color: white;
+  border-radius: 5px;
+  border-style: none;
+  padding: 1px 10px;
+  height: 25px;
+}
+
+.rating {
+  color: gold;
+  font-size: 20px;
+
+}
+
+.card-body h5 {
+  font-size: 15px;
+}
+
+
+.sale-section {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  background: url("../images/shop by category/clothes.webp")no-repeat center/cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0%;
+}
+
+.sale-section::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(6, 6, 6, 0.35);
+}
+
+
+.hero-overlay {
+  position: relative;
+  text-align: center;
+  color: #fff;
+  z-index: 2;
+}
+
+.hero-overlay h4 {
+  font-size: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.hero-overlay h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.hero-overlay .btn {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #fff;
+  color: #000;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: 0.3s;
+}
+
+.hero-overlay .btn:hover {
+  background: #000;
+  color: #fff;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+  .hero-overlay h1 {
+    font-size: 36px;
+  }
+}
+
+@media (max-width: 768px) {
+  .sale-section {
+    height: 60vh;
+  }
+
+  .hero-overlay h1 {
+    font-size: 28px;
+  }
+
+  .hero-overlay h4 {
+    font-size: 14px;
+  }
+
+  .hero-overlay .btn {
+    padding: 10px 18px;
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sale-section {
+    height: 50vh;
+  }
+
+  .hero-overlay h1 {
+    font-size: 22px;
+  }
+}
+

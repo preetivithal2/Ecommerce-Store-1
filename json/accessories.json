@@ -1,0 +1,562 @@
+{
+  "Rings": [
+    {
+      "name": "62pcs Random Golden and Silvery Ring Set",
+      "price": "$5.90",
+      "image": "images/shop by category/rings1.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Elegant Snake-Shaped Ring for Wome",
+      "price": "$150",
+      "image": "images/shop by category/rings2.webp"
+    },
+    {
+      "name": "Simple and elegant adjustable letter ring, se",
+      "price": "$45.90",
+      "image": "images/shop by category/rings3.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Elegant Crown Princess-Inspired Rhinestone Ring Set",
+      "price": "$150",
+      "image": "images/shop by category/rings4.webp"
+    },
+    {
+      "name": "10pcs/set of simple and elegant style stacked ring",
+      "price": "$45.90",
+      "image": "images/shop by category/rings5.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Index Finger Ring Is Suitable For Wedding Banquets",
+      "price": "$150",
+      "image": "images/shop by category/rings6.webp"
+    },
+    {
+      "name": "Elegant Vintage Ring with Black Square Cubic - Floral",
+      "price": "$45.90",
+      "image": "images/shop by category/rings7.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "1pc minimalist luxury leaf-shaped open ring",
+      "price": "$150",
+      "image": "images/shop by category/rings8.webp"
+    },
+        {
+      "name": "Elegant Princess-Inspired Triple Layer Crown Ring",
+      "price": "$33.76",
+      "image": "images/shop by category/rings9.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Multi-layer Necklace, Earrings, And Rings Four-in-one Set Of Jewelry",
+      "price": "$65.67",
+      "image": "images/shop by category/rings10.webp"
+    },
+    {
+      "name": "[3pcs Y2K-Inspired Adjustable Heart Bow Rings] Set",
+      "price": "$87.34",
+      "image": "images/shop by category/rings11.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Ring With Shiny Green Artificial Gemstone Decor",
+      "price": "$50.03",
+      "image": "images/shop by category/rings12.webp"
+    },
+    {
+      "name": "1pc Exquisite and Stylish Vintage Black Dragon Pattern Open Ring",
+      "price": "$98.09",
+      "image": "images/shop by category/rings13.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Rings Double Finger Ring Conjoined Ring Peach Heart Combination Ring",
+      "price": "$23.09",
+      "image": "images/shop by category/rings14.webp"
+    },
+    {
+      "name": "Butterfly Open Ring - Adjustable Zinc Alloy",
+      "price": "$77.89",
+      "image": "images/shop by category/rings15.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Cubic Synthetic Zirconia Rings, Couple's Ring Accessories",
+      "price": "$30.76",
+      "image": "images/shop by category/rings16.webp"
+    }
+  ],
+
+
+  "Earrings": [
+    {
+      "name": "12 Pairs/ Set Shiny Synthetic Gems Decor Stud Earrings Elegant",
+      "price": "$8.08",
+      "image": "images/shop by category/earring1.webp"
+    },
+     {
+      "name": "1 pair of sweet cherry earrings, red cherry earring set",
+      "price": "$4.80",
+      "image": "images/shop by category/earring2.webp"
+    },
+     {
+      "name": "Exquisite Colorful Flower Design Stud Earrings Set Cute Cartoon Style Resin Jewelry",
+      "price": "$4.78",
+      "image": "images/shop by category/earring3.webp"
+    },
+     {
+      "name": "Moon Integrated Chain Earring Bone Clip Set",
+      "price": "$7.99",
+      "image": "images/shop by category/earring4.webp"
+    },
+        {
+      "name": "12pcs Elegant & Cute Hoop Earrings Set",
+      "price": "$7.87",
+      "image": "images/shop by category/earring5.webp"
+    },
+     {
+      "name": "Pairs Set Of Tiny Delicate Hoop Earrings",
+      "price": "$5.45",
+      "image": "images/shop by category/earring6.webp"
+    },
+     {
+      "name": "[NEW]A Pair of 2pcs, Notched Heart Earrings",
+      "price": "$3.37",
+      "image": "images/shop by category/earring7.webp"
+    },
+     {
+      "name": "Elegant Tulip Flower Stud Earrings for Women",
+      "price": "$6.99",
+      "image": "images/shop by category/earring8.webp"
+    },
+     {
+      "name": "Bohemian Travel Ladies Delicate Hollowed-out Earrings",
+      "price": "$.45",
+      "image": "images/shop by category/earring9.webp"
+    },
+     {
+      "name": "1 Pair Elegant Luxury Floral Stud Earrings",
+      "price": "$0.87",
+      "image": "images/shop by category/earring10.webp"
+    },
+     {
+      "name": "9 pairs of minimalist oil-dripping geometric stud earrings",
+      "price": "$5.37",
+      "image": "images/shop by category/earring11.webp"
+    }, {
+      "name": "3-9 Pairs of New Colorful Small Water Drop Minimalist Earrings Set",
+      "price": "$6.01",
+      "image": "images/shop by category/earring12.webp"
+    }, {
+      "name": "New European And American Triangle Hoop Earring Set",
+      "price": "$2.07",
+      "image": "images/shop by category/earring13.webp"
+    }, {
+      "name": "Elegant & Cute Alloy Stud Earrings with Sparkling Cubic Zirconia",
+      "price": "$0.97",
+      "image": "images/shop by category/earring14.webp"
+    }, {
+      "name": "18K Golden Plated Big Multilayer Geometric Hoop Huggie Earrings",
+      "price": "$3.08",
+      "image": "images/shop by category/earring15.webp"
+    },
+    {
+      "name": "Elegant Black Stud Earrings",
+      "price": "$2.37",
+      "image": "images/shop by category/earring16.webp"
+    }
+  ],
+
+ "Necklace": [
+   {
+      "name": "Necklace+Ring+Bracelet+Bracelet+Earring Set Glossy Five Petals",
+      "price": "$.98",
+      "image": "images/shop by category/necklace1.webp"
+    },
+     {
+      "name": "10pcs Chic Butterfly, Heart, Star & Moon Pendant Necklace Set",
+      "price": "$4.98",
+      "image": "images/shop by category/necklace2.webp"
+    },
+     {
+      "name": "Sunflower & Heart Pendant Necklace Boho Elegant Style - A",
+      "price": "$0.90",
+      "image": "images/shop by category/necklace3.webp"
+    },
+     {
+      "name": "Chic Elegant Butterfly & Heart Pendant Necklace Set",
+      "price": "$1.09",
+      "image": "images/shop by category/necklace4.webp"
+    },
+        {
+      "name": "Elgent Bride Necklace Earrings Set Bridal Wedding Jewelry Sets",
+      "price": "$2.87",
+      "image": "images/shop by category/necklace5.webp"
+    },
+     {
+      "name": "2pcs Chic Butterfly Pendant Necklaces - Elegant Golden-Tone Zinc Alloy",
+      "price": "$0.45",
+      "image": "images/shop by category/necklace6.webp"
+    },
+     {
+      "name": "2pcs Purple Painted Flower Bracelet and Necklace Set",
+      "price": "$1.37",
+      "image": "images/shop by category/necklace7.webp"
+    },
+     {
+      "name": "3pcs Stylish Minimalist Sweet Heart Earrings and Necklace Gift Set",
+      "price": "$2.99",
+      "image": "images/shop by category/necklace8.webp"
+    },
+     {
+      "name": "1pc Nooxian Y2K Cute Moon & Heart Pendant Necklace",
+      "price": "$0.45",
+      "image": "images/shop by category/necklace9.webp"
+    },
+     {
+      "name": "1pc Red Cherry Fruit Pendant Necklace",
+      "price": "$0.66",
+      "image": "images/shop by category/necklace10.webp"
+    },
+     {
+      "name": "3pcs Women'S Floral Print T-necklace Set",
+      "price": "$43.33",
+      "image": "images/shop by category/necklace11.webp"
+    }, {
+      "name": "Elegant Pink Heart Pendant Necklace with Sparkling Cubic Zirconia",
+      "price": "$62.01",
+      "image": "images/shop by category/necklace12.webp"
+    }, {
+      "name": "3pcs Set Butterfly Enamel Necklace Exquisite Simple Versatile ",
+      "price": "$75.99",
+      "image": "images/shop by category/necklace13.webp"
+    }, {
+      "name": "Gothic Artificial Crystal Heart Pendant Plush Choker Necklace",
+      "price": "$21.90",
+      "image": "images/shop by category/necklace14.webp"
+    }, {
+      "name": "Adjustable Vintage Boho Necklace with Colorful Beads",
+      "price": "23.34",
+      "image": "images/shop by category/necklace15.webp"
+    },
+    {
+      "name": "3pcs Punk Star Y2K Stainless Steel Layered Necklace Set",
+      "price": "$76.00",
+      "image": "images/shop by category/necklace16.webp"
+    }
+  ],
+
+  "Bracelet": [
+     {
+      "name": "5pcs/10pcs Minimalist Multi-Layered Thin Bracelet Set",
+      "price": "$66.98",
+      "image": "images/shop by category/Bracelet1.webp"
+    },
+     {
+      "name": "Vintage Red Rose & Black Lace Metal Bracelet",
+      "price": "$43.98",
+      "image": "images/shop by category/Bracelet2.webp"
+    },
+     {
+      "name": "Men's Casual Braided Bracelet Set",
+      "price": "$2.90",
+      "image": "images/shop by category/Bracelet3.webp"
+    },
+     {
+      "name": "1pc Elegant Amethyst Bracelet with Golden Accents",
+      "price": "$1.09",
+      "image": "images/shop by category/Bracelet4.webp"
+    },
+        {
+      "name": "Black Synthetic Synthetic Zircon​ Tennis Bracelet",
+      "price": "$2.87",
+      "image": "images/shop by category/Bracelet5.webp"
+    },
+     {
+      "name": "Minimalist Handmade Beaded Black Heart 8-Shape",
+      "price": "$5.45",
+      "image": "images/shop by category/Bracelet6.webp"
+    },
+     {
+      "name": "Fashion Bracelet Butterfly Pendant Chain Finger Bracelet Ring Bracelet",
+      "price": "$2.37",
+      "image": "images/shop by category/Bracelet7.webp"
+    },
+     {
+      "name": "2pcs Vintage-Inspired Black & Green Clover Bracelet ",
+      "price": "$6.99",
+      "image": "images/shop by category/Bracelet8.webp"
+    },
+     {
+      "name": "4pcs Green Synthetic Zirconia Bracelet Set",
+      "price": "$2.45",
+      "image": "images/shop by category/Bracelet9.webp"
+    },
+     {
+      "name": "2pcs QYDCX Punk Style Rivet Star Cuff Bracelets",
+      "price": "$5.66",
+      "image": "images/shop by category/Bracelet10.webp"
+    },
+     {
+      "name": "4pcs Set of Glittering Synthetic Zirconia Bracelet Sets",
+      "price": "$3.33",
+      "image": "images/shop by category/Bracelet11.webp"
+    }, {
+      "name": "Punk Hip-Hop Style Minimalist Versatile Stackable Bracelets",
+           "price": "$1.99",
+ "image": "images/shop by category/Bracelet12.webp"
+    }, {
+      "name": "Rhinestone and Copper Beads Pull-Out Women's Finger Bracelet",
+      "price": "$5.99",
+      "image": "images/shop by category/Bracelet13.webp"
+    }, {
+      "name": "Vintage Gemstone & Pearl Lace Bracelet with Ring",
+      "price": "$1.90",
+      "image": "images/shop by category/Bracelet14.webp"
+    }, {
+      "name": "Classic Elegant Temperament Bracelet Gift",
+      "price": "3.34",
+      "image": "images/shop by category/Bracelet15.webp"
+    },
+    {
+      "name": "1pc Elegant Maple Leaf Bell Bracelet",
+      "price": "$6.00",
+      "image": "images/shop by category/Bracelet16.webp"
+    }
+  ],
+
+  "nosering": [
+    {
+      "name": "Stylish Stainless Steel Butterfly Nose Ring",
+      "price": "$5",
+      "image": "images/shop by category/nosering1.webp"
+    },
+     {
+      "name": "1PC Stainless Steel Nose Stud G Shape Nose",
+      "price": "$0.67",
+      "image": "images/shop by category/nosering2.webp"
+    }, {
+      "name": "Red Heart Pendant Nose Ring, Trendy Body Jewelry for Piercings.",
+      "price": "$5.67",
+      "image": "images/shop by category/nosering3.webp"
+    },
+     {
+      "name": "1/5pcs Stainless Steel Heart Nose Ring",
+      "price": "$3.43",
+      "image": "images/shop by category/nosering4.webp"
+    },
+     {
+      "name": "1pc Bohemian Style U-Shaped Nose Stud",
+      "price": "$3,04",
+      "image": "images/shop by category/nosering5.webp"
+    }, 
+    {
+      "name": "A Stainless Steel Welding Ball Nose Ring",
+      "price": "$2.43",
+      "image": "images/shop by category/nosering6.webp"
+    }, {
+      "name": "1pc Inlaid Shiny zirconia Nose Ring",
+      "price": "$0,86",
+      "image": "images/shop by category/nosering7.webp"
+    },
+     {
+      "name": "cherry blossom shaped Synthetic Zirconia nose clips",
+      "price": "$32.88",
+      "image": "images/shop by category/nosering8.webp"
+    },
+     {
+      "name": "Chic 20G Stainless Steel Hoop Nose Ring",
+      "price": "$74.55",
+      "image": "images/shop by category/nosering9.webp"
+    }, {
+      "name": "1pc Vintage Boho Style Butterfly Nose Ring",
+      "price": "$40.77",
+      "image": "images/shop by category/nosering10.webp"
+    }, {
+      "name": "4pcs Nose Rings - 20g Nose rings",
+      "price": "$88.68",
+      "image": "images/shop by category/nosering11.webp"
+    },
+     {
+      "name": "Elegant Vintage Copper Inlaid Synthetic",
+      "price": "$89.45",
+      "image": "images/shop by category/nosering12.webp"
+    },
+     {
+      "name": "1pc Flower Nose Stud, Inlaid Artificial Zirconia",
+      "price": "$42.54",
+      "image": "images/shop by category/nosering13.webp"
+    }, {
+      "name": "Heart Wing Pendant Eye Side Nose Ring",
+      "price": "$12.22",
+      "image": "images/shop by category/nosering14.webp"
+    }, {
+      "name": "Love Heart Wings Nose Nail Inlaid Shiny",
+      "price": "$90.09",
+      "image": "images/shop by category/nosering15.webp"
+    },
+    {
+      "name": "1 Pc, Golden Stainless Steel Nose Rings",
+      "price": "$82.27",
+      "image": "images/shop by category/nosering16.webp"
+    }
+  ],
+  "Nails": [
+   {
+"name":"Red and Black Press-On Nails with Glossy Black Floral Design",
+      "price": "$696.98",
+      "image": "images/shop by category/nail1.webp"
+    },
+     {
+"name":"Elevate Your Style with Medium Square Jelly color Fake nails",
+      "price": "$413.98",
+      "image": "images/shop by category/nail2.webp"
+    },
+     {
+"name":"Ballerina/Almond Fake Nails With Snake Design",
+      "price": "$231.90",
+      "image": "images/shop by category/nail3.webp"
+    },
+     {
+"name":"Long Teardrop Almond Nail Tips Simple Curve Golden",
+      "price": "$869.09",
+      "image": "images/shop by category/nail4.webp"
+    },
+        {
+"name":"Long Almond Shape Pure Red Matte Texture Red Nail Plates Black Rose",
+      "price": "$770.87",
+      "image": "images/shop by category/nail5.webp"
+    },
+     {
+"name":"Ballet Press-On Nails with Butterfly Rhinestone Design ",
+      "price": "$555.45",
+      "image": "images/shop by category/nail6.webp"
+    },
+     {
+"name":"Black 3D Almond Press-On Nails - Extra Long Snake Stiletto Glossy",
+      "price": "$329.37",
+      "image": "images/shop by category/nail7.webp"
+    },
+     {
+"name":"French pink edge design--1pc Nail",
+      "price": "$686.99",
+      "image": "images/shop by category/nail8.webp"
+    },
+     {
+"name":"Luxury Burgundy Ballet Press-On Nails Set, Long Full Cover French Glitter Fake Nail",
+      "price": "$239.45",
+      "image": "images/shop by category/nail9.webp"
+    },
+     {
+"name":"Star Pattern Glitter Nail Stickers & Decals, PET Self-Adhesive Nail",
+      "price": "$645.66",
+      "image": "images/shop by category/nail10.webp"
+    },
+     {
+"name":"Glossy Press On Nails Square Shape with 3D",
+      "price": "$493.33",
+      "image": "images/shop by category/nail11.webp"
+    }, {
+"name":"A Set Of 3D Laser Heart-shaped Alphabet Nail",
+      "price": "$602.01",
+      "image": "images/shop by category/nail12.webp"
+    }, {
+"name":"Long Almond Shape Press-On Nails",
+      "price": "$715.99",
+      "image": "images/shop by category/nail13.webp"
+    }, {
+"name":"Glossy Red Brown Matte Finish Fake Nails",
+      "price": "$281.90",
+      "image": "images/shop by category/nail14.webp"
+    }, {
+"name":"Red Rose Gradient Square Short Nails",
+      "price": "423.34",
+      "image": "images/shop by category/nail15.webp"
+    },
+    {
+"name":"Bright Pink Press-on Nails with White Heart Designs",
+      "price": "$776.00",
+      "image": "images/shop by category/nail16.webp"
+    }
+  ],
+
+  "watch": [
+   {
+      "name": "Women'S Casual Business Quartz Watch",
+      "price": "$56.98",
+      "image": "images/shop by category/watch1.webp"
+    },
+     {
+      "name": "",
+      "price": "$43.98",
+      "image": "images/shop by category/watch2.webp"
+    }, {
+      "name": "5pcs New Women's Vintage Elegant Round Quartz Watch",
+      "price": "$55.45",
+      "image": "images/shop by category/watch6.webp"
+    },{
+      "name": "Women's Quartz Watch Set - Fashionable Alloy Band, Round Dial",
+      "price": "$97.87",
+      "image": "images/shop by category/watch5.webp"
+    },
+     {
+      "name": "ERUN Unisex Smartwatch with Wireless Calls",
+      "price": "$21.90",
+      "image": "images/shop by category/watch3.webp"
+    }, 
+     {
+      "name": "Quartz Wristwatch with Heart-Shaped Rhinestone Inlay",
+      "price": "$89.09",
+      "image": "images/shop by category/watch4.webp"
+    },
+     {
+      "name": "4pcs Women'S Elegant Quartz Watch Set - Simple Chic Round Dial",
+      "price": "$32.37",
+      "image": "images/shop by category/watch7.webp"
+    },
+     {
+      "name": "Elegant Design Quartz Wristwatch",
+      "price": "$66.99",
+      "image": "images/shop by category/watch8.webp"
+    },
+     {
+      "name": "5pcs Luxury Women's Quartz Watch and Jewelry Set",
+      "price": "$29.45",
+      "image": "images/shop by category/watch9.webp"
+    },
+     {
+      "name": "Formal Events - Women's Fashion Accessory Gift, Office Wear",
+      "price": "$65.66",
+      "image": "images/shop by category/watch10.webp"
+    },
+     {
+      "name": "Quartz Movement - Affordable Luxury Watch for Everyday",
+      "price": "$43.33",
+      "image": "images/shop by category/watch11.webp"
+    }, {
+      "name": "Women'S Elegant Wristwatches - Golden-Tone Alloy Case & Band",
+      "price": "$62.01",
+      "image": "images/shop by category/watch12.webp"
+    }, {
+      "name": "5pcs Women'S Elegant Fashion Quartz Wristwatches",
+      "price": "$75.99",
+      "image": "images/shop by category/watch13.webp"
+    }, {
+      "name": "Watch + Long-lasting Fresh Fragrance andChain Bracelet Set",
+      "price": "$21.90",
+      "image": "images/shop by category/watch14.webp"
+    }, {
+      "name": "Shockproof Case, Stainless Steel Bracelet-like Strap",
+      "price": "23.34",
+      "image": "images/shop by category/watch15.webp"
+    },
+    {
+      "name": "Golden Rose Golden Square Digital Display Electronic Watch",
+      "price": "$76.00",
+      "image": "images/shop by category/watch16.webp"
+    }
+  ]
+}

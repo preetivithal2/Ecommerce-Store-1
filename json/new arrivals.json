@@ -1,0 +1,255 @@
+{
+    "Just For You!": [
+        {
+            "name": "Textured Crossbody Bag with Golden-Tone Hardware",
+            "price": "$89.09",
+            "image": "images/bags collection/deal4.webp"
+        },
+        {
+            "name": "5pcs Women'S Elegant Fashion Quartz Wristwatches",
+            "price": "$75.99",
+            "image": "images/shop by category/watch13.webp"
+        },
+        {
+            "name": "Watch + Long-lasting Fresh Fragrance andChain Bracelet Set",
+            "price": "$21.90",
+            "image": "images/shop by category/watch14.webp"
+        },
+        {
+            "name": "1/5pcs Stainless Steel Heart Nose Ring",
+            "price": "$3.43",
+            "image": "images/shop by category/nosering4.webp"
+        },
+        {
+            "name": "Long Sleeve Loose Fit Round Neck Blouse, Breathable All-Season Versatile Casual to Formal Wear,",
+            "price": "$66.98",
+            "image": "images/bags collection/deal1.webp"
+        },
+        {
+            "name": "160pcs Fduay Fullerene Essence Capsule",
+            "price": "$686.99",
+            "image": "images/shop by category/cap8.webp"
+        },
+        {
+            "name": "5pcs Portable Makeup Brush Set with Mirror",
+            "price": "$75.99",
+            "image": "images/shop by category/brush13.webp"
+        },
+        {
+            "name": "5pcs New multiple styles makeup brush",
+            "price": "23.34",
+            "image": "images/shop by category/brush15.webp"
+        },
+        {
+            "name": "Lavender Capsule Facial Essence 20pcs",
+            "price": "$239.45",
+            "image": "images/shop by category/cap9.webp"
+        },
+        {
+            "name": "MAANGE 1pc Foundation Blush Brush, Soft Nylon Bristles",
+            "price": "$21.90",
+            "image": "images/shop by category/brush14.webp"
+        },
+        {
+            "name": "Handcrafted Charm | Chic Round Woven Crossbody Bag for Women",
+            "price": "$21.90",
+            "image": "images/bags collection/deal3.webp"
+        },
+        {
+            "name": "Vintage Western denim-like dress - Sleeveless A-Line skirt with tie-back waist",
+            "price": "$21.90",
+            "image": "images/shop by category/western3.webp"
+        },
+        {
+            "name": "Butterfly Open Ring - Adjustable Zinc Alloy",
+            "price": "$77.89",
+            "image": "images/shop by category/rings15.webp",
+            "rate": "⭐⭐⭐⭐"
+        },
+        {
+            "name": "Disney Stitch & Angel Backpack, cute cartoon print",
+            "price": "$55.45",
+            "image": "images/bags collection/school6.webp"
+        },
+        {
+            "name": "White Bohemian-style Dress",
+            "price": "$89.09",
+            "image": "images/shop by category/western4.webp"
+        },
+        {
+            "name": "Two-piece set is a versatile and trendy",
+            "price": "$56.98",
+            "image": "images/shop by category/party1.webp"
+        }
+    ],
+    "Hot sales": [
+   {
+"name":"Red and Black Press-On Nails with Glossy Black Floral Design",
+      "price": "$696.98",
+      "image": "images/shop by category/nail1.webp"
+    },
+   {
+      "name": "Long-Lasting Shine & Glitter in Orange, Pink, Red, Nude",
+      "price": "$6.99",
+      "image": "images/shop by category/lipstick4.webp"
+    },
+        {
+      "name": "Langmanni 24pcs Matte Liquid Lipstick Set",
+      "price": "$7.87",
+      "image": "images/shop by category/lipstick5.webp"
+    },
+  {
+      "name": "Unisex Casual Backpack with High Aesthetic Appeal",
+      "price": "$43.98",
+      "image": "images/bags collection/school2.webp"
+    },
+     {
+      "name": "Large Capacity Backpack - Heavy-Duty Schoo",
+      "price": "$21.90",
+      "image": "images/bags collection/school3.webp"
+    },
+   {
+      "name": "Long Sleeve Floral Print Dress - White with Yellow & Black Flowers,",
+      "price": "$45.78",
+      "image": "images/shop by category/long3.webp"
+    },
+     {
+      "name": "V-Neck Floral Print Dress with Fitted Bodice & Flowy Skirt",
+      "price": "$76.99",
+      "image": "images/shop by category/long4.webp"
+    },
+        {
+      "name": "Loose Fit Round Neck for Lotus Sleeve A-Line Maxi Dress ",
+      "price": "$77.87",
+      "image": "images/shop by category/long5.webp"
+    },
+       {
+      "name": "Purple Tie Dye Ribbon Bow Romantic Summer Dress",
+      "price": "$77.87",
+      "image": "images/shop by category/western5.webp"
+    },
+     {
+      "name": "12pcs Romantic Love-Themed Lip Cheek Blush Kit",
+      "price": "$0.76",
+      "image": "images/shop by category/blush1.webp"
+    },
+     {
+      "name": "Luxurious Noble Radiant Rouge, [Palace Status] Peony Blush Palette",
+      "price": "$3.08",
+      "image": "images/shop by category/blush2.webp"
+    },
+     {
+      "name": "[Retro Tank Dress] Olive Green Square Neck Tank Dress",
+      "price": "$55.45",
+      "image": "images/shop by category/western6.webp"
+    },
+     {
+      "name": "Women's Vintage Western Cowgirl Dress - Non-Stretch Button-Front Long Dress",
+      "price": "$32.37",
+      "image": "images/shop by category/western7.webp"
+    },
+  {
+      "name": "12 Pairs/ Set Shiny Synthetic Gems Decor Stud Earrings Elegant",
+      "price": "$8.08",
+      "image": "images/shop by category/earring1.webp"
+    },
+     {
+      "name": "1 pair of sweet cherry earrings, red cherry earring set",
+      "price": "$4.80",
+      "image": "images/shop by category/earring2.webp"
+    },
+     {
+      "name": "Exquisite Colorful Flower Design Stud Earrings Set Cute Cartoon Style Resin Jewelry",
+      "price": "$4.78",
+      "image": "images/shop by category/earring3.webp"
+    }
+],
+
+
+ "Trend collections": [
+ {
+      "name": "Manicure Pedicure Kit with Nail Art Lamp, Gel Polish Glue & Drying Machine, Electric Nail Drill",
+      "price": "$55",
+      "image": "images/shop by category/menicure1.webp"
+    },
+     {
+      "name": "42pcs Nail Clipper Set for Men and Women, Nail Clippers, Nail Groove Nail Clippers",
+      "price": "$90.67",
+      "image": "images/shop by category/menicure2.webp"
+    },
+      {
+      "name": "Full Coverage Liquid Foundation with Matte Finish, Sweatproof",
+      "price": "$66.99",
+      "image": "images/shop by category/foun8.webp"
+    },
+     {
+      "name": "Two-In-One Concealer Foundation Sticks with Oil Contro",
+      "price": "$29.45",
+      "image": "images/shop by category/foun9.webp"
+    },
+    {
+      "name": "Electric Nail Drill for Gel Nails Removing 45000RPM Nail",
+      "price": "$55.67",
+      "image": "images/shop by category/menicure3.webp"
+    },
+
+  {
+      "name": "Elegant Black and White Checkered Tote Bag with Removable Strap",
+      "price": "$66.99",
+      "image": "images/bags collection/deal8.webp"
+    },
+     {
+      "name": "Women's Korean Style Shoulder Bag with Detachable Chain Strap",
+      "price": "$29.45",
+      "image": "images/bags collection/deal9.webp"
+    },
+ {
+      "name": "Maxi Dress with Belt - Long Sleeve, Round Neck, Polyester, Teal with Red Flowers",
+      "price": "$55.45",
+      "image": "images/shop by category/long6.webp"
+    },
+  {
+      "name": "Women's Elegant Tropical Print Pleated Dress -",
+      "price": "$32.37",
+      "image": "images/shop by category/party7.webp"
+    },
+
+     {
+      "name": "Bohemian Style Dress | Full Skirt | Retro Long | Ethnic Embroidery | Casual",
+      "price": "$44.80",
+      "image": "images/shop by category/long2.webp"
+    },
+     {
+      "name": "Long Sleeve Floral Print Dress - White with Yellow & Black Flowers,",
+      "price": "$45.78",
+      "image": "images/shop by category/long3.webp"
+    },
+     {
+      "name": "V-Neck Floral Print Dress with Fitted Bodice & Flowy Skirt",
+      "price": "$76.99",
+      "image": "images/shop by category/long4.webp"
+    },
+
+    {
+      "name": "Red Heart Pendant Nose Ring, Trendy Body Jewelry for Piercings.",
+      "price": "$5.67",
+      "image": "images/shop by category/nosering3.webp"
+    },
+     {
+      "name": "1/5pcs Stainless Steel Heart Nose Ring",
+      "price": "$3.43",
+      "image": "images/shop by category/nosering4.webp"
+    },
+     {
+      "name": "1pc Bohemian Style U-Shaped Nose Stud",
+      "price": "$3,04",
+      "image": "images/shop by category/nosering5.webp"
+    },
+    {
+      "name": " Rainbow Heart Backpack Set: 41.91cm Double Shoulder Backpack",
+      "price": "$21.90",
+      "image": "images/bags collection/school14.webp"
+    }
+]
+
+}

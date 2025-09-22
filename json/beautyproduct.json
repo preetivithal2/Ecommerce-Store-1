@@ -1,0 +1,564 @@
+{
+  "facemask": [
+    {
+      "name": "Turmeric Vitamin C retinol Moisturizing and firming",
+      "price": "$45.90",
+      "image": "images/shop by category/mask1.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "LED Facial Mask for Women - USB Rechargeable Portable Skincare ",
+      "price": "$150",
+      "image": "images/shop by category/mask2.webp"
+    },
+    {
+      "name": "11pcs Brightening Fruit Mask,Strawberry Rose Turmeric Butter",
+      "price": "$45.90",
+      "image": "images/shop by category/mask3.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Vitamin C, Japan Sakura Moisturizing Mask",
+      "price": "$150",
+      "image": "images/shop by category/mask4.webp"
+    },
+    {
+      "name": "2-Pack Beautyturess Tea Mud Cleansing Mask",
+      "price": "$45.90",
+      "image": "images/shop by category/mask5.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "4-Pack Clay Mask Set, Turmeric Vitamin C Clay Mask",
+      "price": "$150",
+      "image": "images/shop by category/mask6.webp"
+    },
+    {
+      "name": "Collagen Night Wrapping Mask 75g - Hydrating & Elasticity-Boosting",
+      "price": "$45.90",
+      "image": "images/shop by category/mask7.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "7 Colors Facial Device, USB Charging, Beauty Care",
+      "price": "$150",
+      "image": "images/shop by category/mask8.webp"
+    },
+        {
+      "name": "LED Face and Neck Care Tool",
+      "price": "$33.76",
+      "image": "images/shop by category/mask9.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Gentle Cleansing Glycerin Deep Pore-Cleaning Mask",
+      "price": "$65.67",
+      "image": "images/shop by category/mask10.webp"
+    },
+    {
+      "name": "Vitamin E for Deep Moisturizing mask",
+      "price": "$87.34",
+      "image": "images/shop by category/mask11.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Deeply Moisturize Pores, Super moisturizing mask",
+      "price": "$50.03",
+      "image": "images/shop by category/mask12.webp"
+    },
+    {
+      "name": "VIARELINE Deep Hydrating Facial Mask Powder",
+      "price": "$98.09",
+      "image": "images/shop by category/mask13.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "7-Color Touch Screen Facial Mask for Women",
+      "price": "$23.09",
+      "image": "images/shop by category/mask14.webp"
+    },
+    {
+      "name": "Portable Emergency Moisturizing Facial Mask",
+      "price": "$77.89",
+      "image": "images/shop by category/mask15.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "5pcs Deep Collagen Lifting Masks",
+      "price": "$30.76",
+      "image": "images/shop by category/mask16.webp"
+    }
+  ],
+
+
+  "facial": [
+    {
+      "name": "Long Sleeve A-Line Dress with Lapel Collar",
+      "price": "$80.88",
+      "image": "images/shop by category/long1.webp"
+    },
+     {
+      "name": "Bohemian Style Dress | Full Skirt | Retro Long | Ethnic Embroidery | Casual",
+      "price": "$44.80",
+      "image": "images/shop by category/long2.webp"
+    },
+     {
+      "name": "Long Sleeve Floral Print Dress - White with Yellow & Black Flowers,",
+      "price": "$45.78",
+      "image": "images/shop by category/long3.webp"
+    },
+     {
+      "name": "V-Neck Floral Print Dress with Fitted Bodice & Flowy Skirt",
+      "price": "$76.99",
+      "image": "images/shop by category/long4.webp"
+    },
+        {
+      "name": "Loose Fit Round Neck for Lotus Sleeve A-Line Maxi Dress ",
+      "price": "$77.87",
+      "image": "images/shop by category/long5.webp"
+    },
+     {
+      "name": "Maxi Dress with Belt - Long Sleeve, Round Neck, Polyester, Teal with Red Flowers",
+      "price": "$55.45",
+      "image": "images/shop by category/long6.webp"
+    },
+     {
+      "name": "Long Sleeve Maxi Dress with Waist Tie - Beige, Red & Gray Floral",
+      "price": "$32.37",
+      "image": "images/shop by category/long7.webp"
+    },
+     {
+      "name": "V3 Printed Waist-Cut Dress",
+      "price": "$66.99",
+      "image": "images/shop by category/long8.webp"
+    },
+     {
+      "name": " Long Formal & casual gown with Stand-Up Collar, Flared Hem",
+      "price": "$29.45",
+      "image": "images/shop by category/long9.webp"
+    },
+     {
+      "name": "Belted Waist & A-Line Silhouette, Deep V-Neck Design",
+      "price": "$55.87",
+      "image": "images/shop by category/long10.webp"
+    },
+     {
+      "name": "[Autumn Dress] Autumn Printed Long Sleeve Women's Ruffle Dress | Party Gown",
+      "price": "$32.37",
+      "image": "images/shop by category/long11.webp"
+    }, {
+      "name": "The fashionable floral print patchwork waist dress is elegant and retro",
+      "price": "$62.01",
+      "image": "images/shop by category/long12.webp"
+    }, {
+      "name": "DAYSWomen's Elegant Off-Shoulder One-Shoulder Floral Print Dress ",
+      "price": "$82.07",
+      "image": "images/shop by category/long13.webp"
+    }, {
+      "name": "1pc Polyester Elegant Floral Print V-Neck A-Line Swing Dress",
+      "price": "$75.97",
+      "image": "images/shop by category/long14.webp"
+    }, {
+      "name": "Long Sleeve Maxi Dress with Waist Tie - Beige, Red & Gray Floral",
+      "price": "$32.37",
+      "image": "images/shop by category/long15.webp"
+    },
+    {
+      "name": "Black & Pink Floral Print, Round Neck, Flowy A-Line Silhouette",
+      "price": "$32.37",
+      "image": "images/shop by category/long16.webp"
+    }
+  ],
+
+ "skincare": [
+   {
+      "name": "Hanmj Ginseng Royal Court Facial Serum Gift Se",
+      "price": "$66.98",
+      "image": "images/shop by category/skin1.webp"
+    },
+     {
+      "name": "Ginseng Collagen Serum - Anti-Wrinkle Firming Moisturize",
+      "price": "$43.98",
+      "image": "images/shop by category/skin2.webp"
+    },
+     {
+      "name": "Long-Lasting Fragrance Hair Serum Spray for Women",
+      "price": "$21.90",
+      "image": "images/shop by category/skin3.webp"
+    },
+     {
+      "name": "3pcs/Shijing Moisturizing Hand Cream, Peach Fragrance/Osmanthus Fragrance",
+      "price": "$89.09",
+      "image": "images/shop by category/skin4.webp"
+    },
+        {
+      "name": "Luxury Korean Beauty Light Beige Care Set - Hanmj Lingzhi Gel Serum",
+      "price": "$77.87",
+      "image": "images/shop by category/skin5.webp"
+    },
+     {
+      "name": "Stylish Pink 500ml Shampoo, Shower Gel",
+      "price": "$55.45",
+      "image": "images/shop by category/skin6.webp"
+    },
+     {
+      "name": "ENVISHA 1 Fl.Oz 4 in 1 Facial Serum",
+      "price": "$32.37",
+      "image": "images/shop by category/skin7.webp"
+    },
+     {
+      "name": "Raspberry-Flavored Lip Scrub Contains Plant Squalane for Hydrationr",
+      "price": "$66.99",
+      "image": "images/shop by category/skin8.webp"
+    },
+     {
+      "name": "White Rice Light Beige Care 6pcs Set, Women'S and ' Moisturizing",
+      "price": "$29.45",
+      "image": "images/shop by category/skin9.webp"
+    },
+     {
+      "name": "5pcs Milk Skincare Set, Hypoallergenic Moisturizing Routine",
+      "price": "$65.66",
+      "image": "images/shop by category/skin10.webp"
+    },
+     {
+      "name": "Avocado Skincare Set: Cleanser, Essence Water",
+      "price": "$43.33",
+      "image": "images/shop by category/skin11.webp"
+    }, {
+      "name": "16pcs LAIKOU Sakura Skincare Set, Portable for Travelling, Moisturizing",
+      "price": "$62.01",
+      "image": "images/shop by category/skin12.webp"
+    }, {
+      "name": "8pcs Moisturizing Skincare Collection",
+      "price": "$75.99",
+      "image": "images/shop by category/skin13.webp"
+    }, {
+      "name": "BIOAOUA Rice & Collagen 6pcs Skincare Se",
+      "price": "$21.90",
+      "image": "images/shop by category/skin14.webp"
+    }, {
+      "name": " Aloe Vera Gel. Moisturizing Face Cream. Hand and Foot Moisturizing",
+      "price": "23.34",
+      "image": "images/shop by category/skin15.webp"
+    },
+    {
+      "name": "Cherry Blossom Skincare Set: moisturizing toner, eye cream",
+      "price": "$76.00",
+      "image": "images/shop by category/skin16.webp"
+    }
+  ],
+
+  "hairproduct": [
+     {
+      "name": "Agan Hair Mask 2-Pack, Total 2000g Family Size",
+      "price": "$66.98",
+      "image": "images/shop by category/hair1.webp"
+    },
+     {
+      "name": "2pcs Keratin Smooth Shampoo and Conditioner Set - Moisturizes Hair",
+      "price": "$43.98",
+      "image": "images/shop by category/hair2.webp"
+    },
+     {
+      "name": "GZE Avocado Hair Mask Strengthening Hair Masque Hair Mask",
+      "price": "$21.90",
+      "image": "images/shop by category/hair3.webp"
+    },
+     {
+      "name": "Keratin Argan Oil Hair Care Set 3pcs: Deep Cleansing Scalp, Moisturizing",
+      "price": "$89.09",
+      "image": "images/shop by category/hair4.webp"
+    },
+        {
+      "name": "Collagen Hair Care Set, Including Collagen Hair Mask",
+      "price": "$77.87",
+      "image": "images/shop by category/hair5.webp"
+    },
+     {
+      "name": "2-Pack Cherry Blossom Biotin Hair Care Set",
+      "price": "$55.45",
+      "image": "images/shop by category/hair6.webp"
+    },
+     {
+      "name": "Salicylic acid collagen shampoo and hair care combination set",
+      "price": "$32.37",
+      "image": "images/shop by category/hair7.webp"
+    },
+     {
+      "name": "2-in-1 Straight & Curling Hair Comb with LCD Display",
+      "price": "$66.99",
+      "image": "images/shop by category/hair8.webp"
+    },
+     {
+      "name": "Olive Smooth Silky Shampoo 500ml bottle",
+      "price": "$29.45",
+      "image": "images/shop by category/hair9.webp"
+    },
+     {
+      "name": "Triple Barrel Deep Wave Curling Iron with Adjustable Temperature",
+      "price": "$65.66",
+      "image": "images/shop by category/hair10.webp"
+    },
+     {
+      "name": "500g Batana Shampoo Say goodbye to oily and flat hair",
+      "price": "$43.33",
+      "image": "images/shop by category/hair11.webp"
+    }, {
+      "name": "Adjustable Temperature, Tangle-Free Styling Tool for Dry Hai",
+      "price": "$62.01",
+      "image": "images/shop by category/hair12.webp"
+    }, {
+      "name": "Camellia Seed Oil Amino Acid Perfume Hair Conditioner, Moisturizing",
+      "price": "$75.99",
+      "image": "images/shop by category/hair13.webp"
+    }, {
+      "name": "TSUBAKI Beiqi Shampoo Made in Japan, Gentle Hair Cleansing for Summer",
+      "price": "$21.90",
+      "image": "images/shop by category/hair14.webp"
+    }, {
+      "name": "Salicylic acid collagen shampoo and hair care combination set",
+      "price": "23.34",
+      "image": "images/shop by category/hair15.webp"
+    },
+    {
+      "name": "Koramic Aloe Vera Shampoo for Normal Hai",
+      "price": "$76.00",
+      "image": "images/shop by category/hair16.webp"
+    }
+  ],
+
+  "menicure pedicure": [
+    {
+      "name": "Manicure Pedicure Kit with Nail Art Lamp, Gel Polish Glue & Drying Machine, Electric Nail Drill",
+      "price": "$55",
+      "image": "images/shop by category/menicure1.webp"
+    },
+     {
+      "name": "42pcs Nail Clipper Set for Men and Women, Nail Clippers, Nail Groove Nail Clippers",
+      "price": "$90.67",
+      "image": "images/shop by category/menicure2.webp"
+    }, {
+      "name": "Electric Nail Drill for Gel Nails Removing 45000RPM Nail",
+      "price": "$55.67",
+      "image": "images/shop by category/menicure3.webp"
+    },
+     {
+      "name": "LED Nail Lamp with Digital Display - 110-240V, Type-C Plug",
+      "price": "$34.43",
+      "image": "images/shop by category/menicure4.webp"
+    },
+     {
+      "name": "26-in-1 Professional Pedicure Tool Set, Stainless Steel Foot Care Kit",
+      "price": "$37,04",
+      "image": "images/shop by category/menicure5.webp"
+    }, 
+    {
+      "name": "Professional Manicure & Pedicure Kit, Stainless Steel Nail Clippers",
+      "price": "$93.43",
+      "image": "images/shop by category/menicure6.webp"
+    }, {
+      "name": "Black Manicure & Pedicure Tools, Washable Nail Buffering Files for Natural",
+      "price": "$90,86",
+      "image": "images/shop by category/menicure7.webp"
+    },
+     {
+      "name": "Professional/straight Nail Scissor, Cuticle Cutter, Nail Cutter Set",
+      "price": "$32.88",
+      "image": "images/shop by category/menicure8.webp"
+    },
+     {
+      "name": "Printed Nail File Set, Frosted Polishing Strip Manicure Tool ",
+      "price": "$74.55",
+      "image": "images/shop by category/menicure9.webp"
+    }, {
+      "name": "5pcs Professional Nail Art Brush Set with Wooden Handles ",
+      "price": "$40.77",
+      "image": "images/shop by category/menicure10.webp"
+    }, {
+      "name": "Sanrio Cartoon 7pcs Nail Care Kit with Nail Clipper",
+      "price": "$88.68",
+      "image": "images/shop by category/menicure11.webp"
+    },
+     {
+      "name": "Cloud Prime Professional Electric Nail Drill Machine Se",
+      "price": "$89.45",
+      "image": "images/shop by category/menicure12.webp"
+    },
+     {
+      "name": "100-Pack Double-Sided Printed Nail File Set, Emery Boards",
+      "price": "$42.54",
+      "image": "images/shop by category/menicure13.webp"
+    }, {
+      "name": "Nail Care Tool, Large Nail Clippers, Toenail Clippers",
+      "price": "$12.22",
+      "image": "images/shop by category/menicure14.webp"
+    }, {
+      "name": "Professional Stainless Steel Nail & Beauty Tool Kit with Purple Case",
+      "price": "$90.09",
+      "image": "images/shop by category/menicure15.webp"
+    },
+    {
+      "name": "Professional Electric Nail File Set for Salon and Home Use",
+      "price": "$82.27",
+      "image": "images/shop by category/menicure16.webp"
+    }
+  ],
+  "beautycapsules": [
+   {
+      "name": "2 Bottles of 40 Blue Hair Capsules Rich in Moroccan Nut Oi",
+      "price": "$696.98",
+      "image": "images/shop by category/cap1.webp"
+    },
+     {
+      "name": "50pcs 6-in-1 Facial Capsules for Hydration & Firming, with Peptides, Collagen",
+      "price": "$413.98",
+      "image": "images/shop by category/cap2.webp"
+    },
+     {
+      "name": "60pcs Vitamin E Moisturizing Serum",
+      "price": "$231.90",
+      "image": "images/shop by category/cap3.webp"
+    },
+     {
+      "name": "Astaxanthin Face Capsule Serum 0.5g*60pcs",
+      "price": "$869.09",
+      "image": "images/shop by category/cap4.webp"
+    },
+        {
+      "name": "Retinol Essence Capsule Cream 45 capsules",
+      "price": "$770.87",
+      "image": "images/shop by category/cap5.webp"
+    },
+     {
+      "name": "Plant-Based Squalane & Vitamin E Moisturizing Essence Capsules",
+      "price": "$555.45",
+      "image": "images/shop by category/cap6.webp"
+    },
+     {
+      "name": "2 Bottles of 40 Blue Hair Capsules ",
+      "price": "$329.37",
+      "image": "images/shop by category/cap7.webp"
+    },
+     {
+      "name": "160pcs Fduay Fullerene Essence Capsule",
+      "price": "$686.99",
+      "image": "images/shop by category/cap8.webp"
+    },
+     {
+      "name": "Lavender Capsule Facial Essence 20pcs",
+      "price": "$239.45",
+      "image": "images/shop by category/cap9.webp"
+    },
+     {
+      "name": "Niacinamide and Hyaluronic Acid, Elasticity and Moisturizing Care",
+      "price": "$645.66",
+      "image": "images/shop by category/cap10.webp"
+    },
+     {
+      "name": "38g Red Retinol Eye Essence Capsules 20 Capsules",
+      "price": "$493.33",
+      "image": "images/shop by category/cap11.webp"
+    }, {
+      "name": "1.94oz PDRN Pink Collagen Capsule Cream",
+      "price": "$602.01",
+      "image": "images/shop by category/cap12.webp"
+    }, {
+      "name": " Portable Deep Facial Care Moisturizing Capsule",
+      "price": "$715.99",
+      "image": "images/shop by category/cap13.webp"
+    }, {
+      "name": "80 Batana Hair Care Capsules, containing olive oil",
+      "price": "$281.90",
+      "image": "images/shop by category/cap14.webp"
+    }, {
+      "name": "Candlenut Vitamin Hair Serum Capsules",
+      "price": "423.34",
+      "image": "images/shop by category/cap15.webp"
+    },
+    {
+      "name": "Retinol & Vitamin C Facial Serum Capsule, Moisturizing",
+      "price": "$776.00",
+      "image": "images/shop by category/cap16.webp"
+    }
+  ],
+
+  "party": [
+   {
+      "name": "Two-piece set is a versatile and trendy",
+      "price": "$56.98",
+      "image": "images/shop by category/party1.webp"
+    },
+     {
+      "name": "Two-Piece Set Featuring a Geometric Patterned Top ",
+      "price": "$43.98",
+      "image": "images/shop by category/party2.webp"
+    }, {
+      "name": "Ladies Party Wear Stylish Side Split Rhinestone Long Sleeve Cocktail Evening Long Dress",
+      "price": "$55.45",
+      "image": "images/shop by category/party6.webp"
+    },{
+      "name": "Women's Elegant V-Neck Three-Quarter Sleeve Dress",
+      "price": "$97.87",
+      "image": "images/shop by category/party5.webp"
+    },
+     {
+      "name": "Women'S Plus Size Elegant Sleeveless Floral Print Dress",
+      "price": "$21.90",
+      "image": "images/shop by category/party3.webp"
+    }, 
+     {
+      "name": "Women's Summer Dress Trendy Slim Fit Striped Dres",
+      "price": "$89.09",
+      "image": "images/shop by category/party4.webp"
+    },
+       
+    
+     {
+      "name": "Women's Elegant Tropical Print Pleated Dress -",
+      "price": "$32.37",
+      "image": "images/shop by category/party7.webp"
+    },
+     {
+      "name": "Women'S Formal & menicure Dresses",
+      "price": "$66.99",
+      "image": "images/shop by category/party8.webp"
+    },
+     {
+      "name": "Dilruba – Beloved and enchanting.",
+      "price": "$29.45",
+      "image": "images/shop by category/party9.webp"
+    },
+     {
+      "name": "Flared Skirt Formal & Casual Outfits",
+      "price": "$65.66",
+      "image": "images/shop by category/party10.webp"
+    },
+     {
+      "name": "Two-Piece Set | Spliced Round Neck Top",
+      "price": "$43.33",
+      "image": "images/shop by category/party11.jpg"
+    }, {
+      "name": "Gulnaar – A pomegranate blossom shade of red.",
+      "price": "$62.01",
+      "image": "images/shop by category/party12.webp"
+    }, {
+      "name": "Women'S Formal & Casual Dresses",
+      "price": "$75.99",
+      "image": "images/shop by category/party13.jpg"
+    }, {
+      "name": "Loose Fit Midi Dress with V-Neck, Stretchy Fabric",
+      "price": "$21.90",
+      "image": "images/shop by category/party14.webp"
+    }, {
+      "name": "Black for Office Party Everyday Outfits for Spring/Fall/Summer",
+      "price": "23.34",
+      "image": "images/shop by category/party15.webp"
+    },
+    {
+      "name": "Seasonal Fashion, Vneck Design, Flowy Skirt Style, Fall Wardrobe",
+      "price": "$76.00",
+      "image": "images/shop by category/party16.jpg"
+    }
+  ]
+}

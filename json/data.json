@@ -1,0 +1,564 @@
+{
+  "dresses": [
+    {
+      "name": "Women's Fashion Elegant Print Suit",
+      "price": "$45.90",
+      "image": "images/shop by category/dress1.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": " White Professional Jacket with Golden Buttons & Lapel Collar, Matching Pleated Skirt",
+      "price": "$150",
+      "image": "images/shop by category/dress2.webp"
+    },
+    {
+      "name": " Beige with Orange, Blue, and Green Flowers, Long Sleeve",
+      "price": "$45.90",
+      "image": "images/shop by category/dress3.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "new round-neck chenille top with leaf print and long pants set",
+      "price": "$150",
+      "image": "images/shop by category/dress4.webp"
+    },
+    {
+      "name": "Women's 2pcs Set Elegant Leaf & Floral Print ",
+      "price": "$45.90",
+      "image": "images/shop by category/dress5.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": " Two-Piece Print Round Neck Top and Pants",
+      "price": "$150",
+      "image": "images/shop by category/dress6.webp"
+    },
+    {
+      "name": " Women's Solid Color Short Top with a Flared Skirt Set",
+      "price": "$45.90",
+      "image": "images/shop by category/dress7.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": " Solid Color Side-Slit Long Shirt and Wide-Leg Pant",
+      "price": "$150",
+      "image": "images/shop by category/dress8.webp"
+    },
+        {
+      "name": "Round Neck Tie Strap Half-Open Front Short Sleeve",
+      "price": "$33.76",
+      "image": "images/shop by category/dress9.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": " Stylish solid color lace-up small cardigan with floral print dress elegant 2pcs set",
+      "price": "$65.67",
+      "image": "images/shop by category/dress10.webp"
+    },
+    {
+      "name": "Geometric-Print Cardigan with Solid Crew Neck Sleeveless Dress,",
+      "price": "$87.34",
+      "image": "images/shop by category/dress11.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Long Sleeve Jacket + Vest T-Shirt + Loose Pocket Pant in Black and Golden Floral Print",
+      "price": "$50.03",
+      "image": "images/shop by category/dress12.webp"
+    },
+    {
+      "name": "fabric patchwork top and casual trousers for women, comfortable and elegant",
+      "price": "$98.09",
+      "image": "images/shop by category/dress13.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": " Print Top and Skirt Set with Long Sleeves in Chiffon",
+      "price": "$23.09",
+      "image": "images/shop by category/dress14.webp"
+    },
+    {
+      "name": " Solid Blue Long Cardigan Coat & Halter Neck Dress",
+      "price": "$77.89",
+      "image": "images/shop by category/dress15.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "two-piece high-end light luxury fashion socialite suit for women",
+      "price": "$30.76",
+      "image": "images/shop by category/dress16.webp"
+    }
+  ],
+
+
+  "Long dress": [
+    {
+      "name": "Long Sleeve A-Line Dress with Lapel Collar",
+      "price": "$80.88",
+      "image": "images/shop by category/long1.webp"
+    },
+     {
+      "name": "Bohemian Style Dress | Full Skirt | Retro Long | Ethnic Embroidery | Casual",
+      "price": "$44.80",
+      "image": "images/shop by category/long2.webp"
+    },
+     {
+      "name": "Long Sleeve Floral Print Dress - White with Yellow & Black Flowers,",
+      "price": "$45.78",
+      "image": "images/shop by category/long3.webp"
+    },
+     {
+      "name": "V-Neck Floral Print Dress with Fitted Bodice & Flowy Skirt",
+      "price": "$76.99",
+      "image": "images/shop by category/long4.webp"
+    },
+        {
+      "name": "Loose Fit Round Neck for Lotus Sleeve A-Line Maxi Dress ",
+      "price": "$77.87",
+      "image": "images/shop by category/long5.webp"
+    },
+     {
+      "name": "Maxi Dress with Belt - Long Sleeve, Round Neck, Polyester, Teal with Red Flowers",
+      "price": "$55.45",
+      "image": "images/shop by category/long6.webp"
+    },
+     {
+      "name": "Long Sleeve Maxi Dress with Waist Tie - Beige, Red & Gray Floral",
+      "price": "$32.37",
+      "image": "images/shop by category/long7.webp"
+    },
+     {
+      "name": "V3 Printed Waist-Cut Dress",
+      "price": "$66.99",
+      "image": "images/shop by category/long8.webp"
+    },
+     {
+      "name": " Long Formal & casual gown with Stand-Up Collar, Flared Hem",
+      "price": "$29.45",
+      "image": "images/shop by category/long9.webp"
+    },
+     {
+      "name": "Belted Waist & A-Line Silhouette, Deep V-Neck Design",
+      "price": "$55.87",
+      "image": "images/shop by category/long10.webp"
+    },
+     {
+      "name": "[Autumn Dress] Autumn Printed Long Sleeve Women's Ruffle Dress | Party Gown",
+      "price": "$32.37",
+      "image": "images/shop by category/long11.webp"
+    }, {
+      "name": "The fashionable floral print patchwork waist dress is elegant and retro",
+      "price": "$62.01",
+      "image": "images/shop by category/long12.webp"
+    }, {
+      "name": "DAYSWomen's Elegant Off-Shoulder One-Shoulder Floral Print Dress ",
+      "price": "$82.07",
+      "image": "images/shop by category/long13.webp"
+    }, {
+      "name": "1pc Polyester Elegant Floral Print V-Neck A-Line Swing Dress",
+      "price": "$75.97",
+      "image": "images/shop by category/long14.webp"
+    }, {
+      "name": "Long Sleeve Maxi Dress with Waist Tie - Beige, Red & Gray Floral",
+      "price": "$32.37",
+      "image": "images/shop by category/long15.webp"
+    },
+    {
+      "name": "Black & Pink Floral Print, Round Neck, Flowy A-Line Silhouette",
+      "price": "$32.37",
+      "image": "images/shop by category/long16.webp"
+    }
+  ],
+
+ "casual": [
+   {
+      "name": "Long Sleeve Loose Fit Round Neck Blouse, Breathable All-Season Versatile Casual to Formal Wear,",
+      "price": "$66.98",
+      "image": "images/shop by category/shirt1.webp"
+    },
+     {
+      "name": "Women's Long Sleeve Crew Neck T-Shirts",
+      "price": "$43.98",
+      "image": "images/shop by category/shirt2.webp"
+    },
+     {
+      "name": "Non-Stretchy Chiffon Fabric, Three-Quarter Sleeve Flowy drape for Parties",
+      "price": "$21.90",
+      "image": "images/shop by category/shirt3.webp"
+    },
+     {
+      "name": "Two-Piece Set - Black & Beige Top with Ribbed Detail, Long Sleeve, Polyester",
+      "price": "$89.09",
+      "image": "images/shop by category/shirt4.webp"
+    },
+        {
+      "name": "Casual Fashion Slim Fit Bow Print Detail Solid Color Pleated Pullover",
+      "price": "$77.87",
+      "image": "images/shop by category/shirt5.webp"
+    },
+     {
+      "name": "Vibrant Patchwork Print Asymmetrical T-Shirt - Long Sleeve, Color Block Design,",
+      "price": "$55.45",
+      "image": "images/shop by category/shirt6.webp"
+    },
+     {
+      "name": "Women in Autumn New Long-Sleeved V-Neck T-Shirt Stylish Slim Bottoming Shirt",
+      "price": "$32.37",
+      "image": "images/shop by category/shirt7.webp"
+    },
+     {
+      "name": "Moderate Stretch, Machine Washable - Versatile Casual & Formal Wear",
+      "price": "$66.99",
+      "image": "images/shop by category/shirt8.webp"
+    },
+     {
+      "name": "Casual Polyester Knit Fabric with Heart & Golden Accents",
+      "price": "$29.45",
+      "image": "images/shop by category/shirt9.webp"
+    },
+     {
+      "name": "Lightweight Design for Spring Summer Fall",
+      "price": "$65.66",
+      "image": "images/shop by category/shirt10.webp"
+    },
+     {
+      "name": "3pcs Women'S Floral Print T-Shirt Set",
+      "price": "$43.33",
+      "image": "images/shop by category/shirt11.webp"
+    }, {
+      "name": "Winter Women'S Clothing, Party Attire, Embellished Top",
+      "price": "$62.01",
+      "image": "images/shop by category/shirt12.webp"
+    }, {
+      "name": "Soft Round Neck Tees in Black, White, Pink, Beige",
+      "price": "$75.99",
+      "image": "images/shop by category/shirt13.webp"
+    }, {
+      "name": "Crew Neck Long Sleeve T-Shirts for Women ",
+      "price": "$21.90",
+      "image": "images/shop by category/shirt14.webp"
+    }, {
+      "name": " Party Top for Women in Elegant Green for Spring/Fall Events",
+      "price": "23.34",
+      "image": "images/shop by category/shirt15.webp"
+    },
+    {
+      "name": "Fashion Slim Fit Bow Print Detail Solid Color Pleated Pullover",
+      "price": "$76.00",
+      "image": "images/shop by category/shirt16.webp"
+    }
+  ],
+
+  "western": [
+     {
+      "name": "Summer Women Cowboy Wide Leg Pants Set Fashionable",
+      "price": "$66.98",
+      "image": "images/shop by category/western1.webp"
+    },
+     {
+      "name": "Ruffle Sleeves and Floral Print",
+      "price": "$43.98",
+      "image": "images/shop by category/western2.webp"
+    },
+     {
+      "name": "Vintage Western denim-like dress - Sleeveless A-Line skirt with tie-back waist",
+      "price": "$21.90",
+      "image": "images/shop by category/western3.webp"
+    },
+     {
+      "name": "White Bohemian-style Dress",
+      "price": "$89.09",
+      "image": "images/shop by category/western4.webp"
+    },
+        {
+      "name": "Purple Tie Dye Ribbon Bow Romantic Summer Dress",
+      "price": "$77.87",
+      "image": "images/shop by category/western5.webp"
+    },
+     {
+      "name": "[Retro Tank Dress] Olive Green Square Neck Tank Dress",
+      "price": "$55.45",
+      "image": "images/shop by category/western6.webp"
+    },
+     {
+      "name": "Women's Vintage Western Cowgirl Dress - Non-Stretch Button-Front Long Dress",
+      "price": "$32.37",
+      "image": "images/shop by category/western7.webp"
+    },
+     {
+      "name": "Turquoise & Brown Button-Front, Flared Hem, Lightweight Summer Outfit",
+      "price": "$66.99",
+      "image": "images/shop by category/western8.webp"
+    },
+     {
+      "name": "Elegant Party, Wedding, Cruise & Formal Events gown",
+      "price": "$29.45",
+      "image": "images/shop by category/western9.webp"
+    },
+     {
+      "name": "Black & White Floral Pattern on Light Grey",
+      "price": "$65.66",
+      "image": "images/shop by category/western10.webp"
+    },
+     {
+      "name": "Casual V-Neck A-Line Dress with Chest Ruching & Gradient Prin",
+      "price": "$43.33",
+      "image": "images/shop by category/western11.webp"
+    }, {
+      "name": "Women's Loose Hollow Hook Flower Design Short Midi Skirt",
+      "price": "$62.01",
+      "image": "images/shop by category/western12.webp"
+    }, {
+      "name": "Chic Blue & White Tie-Dye Elegant Patchwork Long Sleeve Dress",
+      "price": "$75.99",
+      "image": "images/shop by category/western13.webp"
+    }, {
+      "name": " A-Line Dress with Black & Yellow Contrast, Ruffled Hem",
+      "price": "$21.90",
+      "image": "images/shop by category/western14.webp"
+    }, {
+      "name": "Floral Print Sleeveless Midi Dress with Tie Waist - Chic Polyester",
+      "price": "23.34",
+      "image": "images/shop by category/western15.webp"
+    },
+    {
+      "name": "Lightly Mature Retro Style Short Sleeve Turn",
+      "price": "$76.00",
+      "image": "images/shop by category/western16.webp"
+    }
+  ],
+
+  "shirts": [
+    {
+      "name": " Black & Contrast with Geometric & Paisley Patterns",
+      "price": "$55",
+      "image": "images/shop by category/casual1.webp"
+    },
+     {
+      "name": "Comfortable Men's Long Sleeve T-shirt | New Basic Color Casual",
+      "price": "$90.67",
+      "image": "images/shop by category/casual2.webp"
+    }, {
+      "name": "Men's Plus Size 3D Digital Print Sport T-Shirt",
+      "price": "$55.67",
+      "image": "images/shop by category/casual3.webp"
+    },
+     {
+      "name": "Hooded Sweatshirt, Stylish Jacket, Trendy",
+      "price": "$34.43",
+      "image": "images/shop by category/casual4.webp"
+    },
+     {
+      "name": "Men's Spring & Autumn Casual Set",
+      "price": "$37,04",
+      "image": "images/shop by category/casual5.webp"
+    }, 
+    {
+      "name": "Men's Casual T-Shirt and Shorts Set, Los Angeles",
+      "price": "$93.43",
+      "image": "images/shop by category/casual6.webp"
+    }, {
+      "name": "Men's fashion long-sleeved shirt and trousers suit retro brown",
+      "price": "$90,86",
+      "image": "images/shop by category/casual7.webp"
+    },
+     {
+      "name": "Men'S Short Sleeve T-shirt And Pants Set, Spring/Summer",
+      "price": "$32.88",
+      "image": "images/shop by category/casual8.webp"
+    },
+     {
+      "name": "2025 Autumn Winter Men'S Casual Gradient Hoodie Set ",
+      "price": "$74.55",
+      "image": "images/shop by category/casual9.webp"
+    }, {
+      "name": "Men'S Casual Hooded Sweatpants, Milk Tea Leopard Print Print",
+      "price": "$40.77",
+      "image": "images/shop by category/casual10.webp"
+    }, {
+      "name": "Men'S Short Sleeve Shorts Set Daily Casual Men'S T-shirt Street Fashion",
+      "price": "$88.68",
+      "image": "images/shop by category/casual11.webp"
+    },
+     {
+      "name": "Men'S Short Sleeve Shorts Set Daily Casual Men'S T-shirt Street Fashion",
+      "price": "$89.45",
+      "image": "images/shop by category/casual12.webp"
+    },
+     {
+      "name": "Short Sleeve, White Base with Blue & Black Geometric Patterns",
+      "price": "$42.54",
+      "image": "images/shop by category/casual13.webp"
+    }, {
+      "name": " Fit Short Sleeve Round Neck for Casual & Streetwear,",
+      "price": "$12.22",
+      "image": "images/shop by category/casual14.webp"
+    }, {
+      "name": "Men's Athletic T-Shirt and Shorts Set - Polyester, Sporty Style, Round Neck",
+      "price": "$90.09",
+      "image": "images/shop by category/casual15.webp"
+    },
+    {
+      "name": "Gradient 2pcs Autumn/Winter Men's Polyester Letter",
+      "price": "$82.27",
+      "image": "images/shop by category/casual16.webp"
+    }
+  ],
+  "wedding": [
+   {
+      "name": "Fitted at the bodice and gently flares out from the waist towards the hem",
+      "price": "$696.98",
+      "image": "images/shop by category/wedding1.webp"
+    },
+     {
+      "name": "Heavily Embellished Royal Bridal Outfit",
+      "price": "$413.98",
+      "image": "images/shop by category/wedding2.webp"
+    },
+     {
+      "name": "Traditional Red Bridal Lehenga",
+      "price": "$231.90",
+      "image": "images/shop by category/wedding3.webp"
+    },
+     {
+      "name": "maroon bridal dress features exquisite gold embroidery",
+      "price": "$869.09",
+      "image": "images/shop by category/wedding4.webp"
+    },
+        {
+      "name": "Regal Ruby Lehenga",
+      "price": "$770.87",
+      "image": "images/shop by category/wedding5.webp"
+    },
+     {
+      "name": "Shahnaz – Bride of royalty and elegance.",
+      "price": "$555.45",
+      "image": "images/shop by category/wedding6.webp"
+    },
+     {
+      "name": "Ayina-e-Ishq – Mirror of love.",
+      "price": "$329.37",
+      "image": "images/shop by category/wedding7.webp"
+    },
+     {
+      "name": "Royal Crimson Bride",
+      "price": "$686.99",
+      "image": "images/shop by category/wedding8.webp"
+    },
+     {
+      "name": "Gulzar – A garden full of blossoms.",
+      "price": "$239.45",
+      "image": "images/shop by category/wedding9.webp"
+    },
+     {
+      "name": "Meherbano – Graceful and kind beauty.",
+      "price": "$645.66",
+      "image": "images/shop by category/wedding10.webp"
+    },
+     {
+      "name": "Maroon Majesty Ensemble",
+      "price": "$493.33",
+      "image": "images/shop by category/wedding11.webp"
+    }, {
+      "name": "Eternal Bloom – Everlasting beauty.",
+      "price": "$602.01",
+      "image": "images/shop by category/wedding12.webp"
+    }, {
+      "name": "Roshanara – Bright and radiant like light.",
+      "price": "$715.99",
+      "image": "images/shop by category/wedding13.webp"
+    }, {
+      "name": "Golden Aura – Shining like royalty in navy blue",
+      "price": "$281.90",
+      "image": "images/shop by category/wedding14.webp"
+    }, {
+      "name": "Golden Aura – Shining like royalty",
+      "price": "423.34",
+      "image": "images/shop by category/wedding15.webp"
+    },
+    {
+      "name": "Gulnaar – A pomegranate blossom shade of green",
+      "price": "$776.00",
+      "image": "images/shop by category/wedding16.webp"
+    }
+  ],
+
+  "party": [
+   {
+      "name": "Two-piece set is a versatile and trendy",
+      "price": "$56.98",
+      "image": "images/shop by category/party1.webp"
+    },
+     {
+      "name": "Two-Piece Set Featuring a Geometric Patterned Top ",
+      "price": "$43.98",
+      "image": "images/shop by category/party2.webp"
+    }, {
+      "name": "Ladies Party Wear Stylish Side Split Rhinestone Long Sleeve Cocktail Evening Long Dress",
+      "price": "$55.45",
+      "image": "images/shop by category/party6.webp"
+    },{
+      "name": "Women's Elegant V-Neck Three-Quarter Sleeve Dress",
+      "price": "$97.87",
+      "image": "images/shop by category/party5.webp"
+    },
+     {
+      "name": "Women'S Plus Size Elegant Sleeveless Floral Print Dress",
+      "price": "$21.90",
+      "image": "images/shop by category/party3.webp"
+    }, 
+     {
+      "name": "Women's Summer Dress Trendy Slim Fit Striped Dres",
+      "price": "$89.09",
+      "image": "images/shop by category/party4.webp"
+    },
+       
+    
+     {
+      "name": "Women's Elegant Tropical Print Pleated Dress -",
+      "price": "$32.37",
+      "image": "images/shop by category/party7.webp"
+    },
+     {
+      "name": "Women'S Formal & Casual Dresses",
+      "price": "$66.99",
+      "image": "images/shop by category/party8.webp"
+    },
+     {
+      "name": "Dilruba – Beloved and enchanting.",
+      "price": "$29.45",
+      "image": "images/shop by category/party9.webp"
+    },
+     {
+      "name": "Flared Skirt Formal & Casual Outfits",
+      "price": "$65.66",
+      "image": "images/shop by category/party10.webp"
+    },
+     {
+      "name": "Two-Piece Set | Spliced Round Neck Top",
+      "price": "$43.33",
+      "image": "images/shop by category/party11.jpg"
+    }, {
+      "name": "Gulnaar – A pomegranate blossom shade of red.",
+      "price": "$62.01",
+      "image": "images/shop by category/party12.webp"
+    }, {
+      "name": "Women'S Formal & Casual Dresses",
+      "price": "$75.99",
+      "image": "images/shop by category/party13.jpg"
+    }, {
+      "name": "Loose Fit Midi Dress with V-Neck, Stretchy Fabric",
+      "price": "$21.90",
+      "image": "images/shop by category/party14.webp"
+    }, {
+      "name": "Black for Office Party Everyday Outfits for Spring/Fall/Summer",
+      "price": "23.34",
+      "image": "images/shop by category/party15.webp"
+    },
+    {
+      "name": "Seasonal Fashion, Vneck Design, Flowy Skirt Style, Fall Wardrobe",
+      "price": "$76.00",
+      "image": "images/shop by category/party16.jpg"
+    }
+  ]
+}

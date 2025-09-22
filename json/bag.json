@@ -1,0 +1,255 @@
+{
+
+
+ "Today Deals": [
+   {
+      "name": "Long Sleeve Loose Fit Round Neck Blouse, Breathable All-Season Versatile Casual to Formal Wear,",
+      "price": "$66.98",
+      "image": "images/bags collection/deal1.webp"
+    },
+     {
+      "name": "Women's & Unisex Crossbody Bag",
+      "price": "$43.98",
+      "image": "images/bags collection/deal2.webp"
+    },
+     {
+      "name": "Handcrafted Charm | Chic Round Woven Crossbody Bag for Women",
+      "price": "$21.90",
+      "image": "images/bags collection/deal3.webp"
+    },
+     {
+      "name": "Textured Crossbody Bag with Golden-Tone Hardware",
+      "price": "$89.09",
+      "image": "images/bags collection/deal4.webp"
+    },
+        {
+      "name": "French-Inspired Women's Crossbody Bag",
+      "price": "$77.87",
+      "image": "images/bags collection/deal5.webp"
+    },
+     {
+      "name": "Women's Straw-Style Round Crossbody Bag",
+      "price": "$55.45",
+      "image": "images/bags collection/deal6.webp"
+    },
+     {
+      "name": "Various Options Available for The 2023 Trendy Crossbody Shoulder Bags",
+      "price": "$32.37",
+      "image": "images/bags collection/deal7.webp"
+    },
+     {
+      "name": "Elegant Black and White Checkered Tote Bag with Removable Strap",
+      "price": "$66.99",
+      "image": "images/bags collection/deal8.webp"
+    },
+     {
+      "name": "Women's Korean Style Shoulder Bag with Detachable Chain Strap",
+      "price": "$29.45",
+      "image": "images/bags collection/deal9.webp"
+    },
+     {
+      "name": "Stylish Pleated Cloud Bag Women'S Handbag",
+      "price": "$65.66",
+      "image": "images/bags collection/deal10.webp"
+    },
+     {
+      "name": "Fugunao Designer Handbag with Golden-Tone Hardware",
+      "price": "$43.33",
+      "image": "images/bags collection/deal11.webp"
+    }, {
+      "name": "An Elegant Corduroy Handbag for Women",
+      "price": "$62.01",
+      "image": "images/bags collection/deal12.webp"
+    }, {
+      "name": "Women's Zippered Woven Bag Set",
+      "price": "$75.99",
+      "image": "images/bags collection/deal13.webp"
+    }, {
+      "name": "Nylon Crossbody Bag, Lightweight Shoulder Bag ",
+      "price": "$21.90",
+      "image": "images/bags collection/deal14.webp"
+    }, {
+      "name": "3 Colors Casual Oxford Men'S Chest Bag",
+      "price": "23.34",
+      "image": "images/bags collection/deal15.webp"
+    },
+    {
+      "name": "Women's Corduroy Strawberry Print Handbag",
+      "price": "$76.00",
+      "image": "images/bags collection/deal16.webp"
+    }
+  ],
+
+  "Girls bag": [
+    {
+      "name": "Elegant Floral Embroidered Handba",
+      "price": "$68.4",
+      "image": "images/bags collection/bag1.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "2pcs Set Women'S Tote Bag and Coin Purse, Casual Style",
+      "price": "$95.90",
+      "image": "images/bags collection/bag2.webp"
+    },
+    {
+      "name": "4 Styles Vintage Cat Pattern Faux Leather Messenger Bags",
+      "price": "$72.70",
+      "image": "images/bags collection/bag3.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Stylish Women's Large Capacity Handbag",
+      "price": "$150",
+      "image": "images/bags collection/bag4.webp"
+    },
+    {
+      "name": "Trendy Handbag with Ball Pendant, Simple Quilted Shoulder Handbag,",
+      "price": "$45.90",
+      "image": "images/bags collection/bag5.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Casual Faux Fur Crossbody Bag with Chain Strap",
+      "price": "$150",
+      "image": "images/bags collection/bag6.webp"
+    },
+    {
+      "name": "Three-Piece Women's Printed Shoulder Bag Set",
+      "price": "$39.99",
+      "image": "images/bags collection/bag7.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Polka Dot Print Shoulder Bag, Trendy Chain Crossbody Bag",
+      "price": "$15.90",
+      "image": "images/bags collection/bag8.webp"
+    },
+        {
+      "name": "Solid Color Fashion Small Handbag with Pom-Pom Decoration",
+      "price": "$33.76",
+      "image": "images/bags collection/bag9.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Lightweight Shoulder Bag, Adjustable Strap",
+      "price": "$65.67",
+      "image": "images/bags collection/bag10.webp"
+    },
+    {
+      "name": "Small Crowd Design Large Capacity Vintage Underarm Women's Bag",
+      "price": "$87.34",
+      "image": "images/bags collection/bag11.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Women'S Casual Shoulder Bag with Fixed Strap",
+      "price": "$50.03",
+      "image": "images/bags collection/bag12.webp"
+    },
+    {
+      "name": "Baoming Women's Convertible Shoulder Bag",
+      "price": "$98.09",
+      "image": "images/bags collection/bag13.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": " Women's Mini Square Shoulder Bag with Golden-Tone Hardware",
+      "price": "$23.09",
+      "image": "images/bags collection/bag14.webp"
+    },
+    {
+      "name": " Stylish Ruffled Cloud Shoulder Bag for Women",
+      "price": "$77.89",
+      "image": "images/bags collection/bag15.webp",
+      "rate": "⭐⭐⭐⭐"
+    },
+    {
+      "name": "Elegant Black and White Checkered Tote Bag with Removable Strap",
+      "price": "$30.76",
+      "image": "images/bags collection/bag16.webp"
+    }
+  ],
+
+
+
+  "school bag": [
+     {
+      "name": "Large Capacity Backpack - Heavy-Duty School Backpack",
+      "price": "$66.98",
+      "image": "images/bags collection/school1.webp"
+    },
+     {
+      "name": "Unisex Casual Backpack with High Aesthetic Appeal",
+      "price": "$43.98",
+      "image": "images/bags collection/school2.webp"
+    },
+     {
+      "name": "Large Capacity Backpack - Heavy-Duty Schoo",
+      "price": "$21.90",
+      "image": "images/bags collection/school3.webp"
+    },
+     {
+      "name": "H7 3-5DAYS Teenager'S Lightweight Large Capacity Backpack",
+      "price": "$89.09",
+      "image": "images/bags collection/school4.webp"
+    },
+        {
+      "name": "Purple Tie Dye Ribbon Bow Romantic Summer Dress",
+      "price": "$77.87",
+      "image": "images/bags collection/school5.webp"
+    },
+     {
+      "name": "Disney Stitch & Angel Backpack, cute cartoon print",
+      "price": "$55.45",
+      "image": "images/bags collection/school6.webp"
+    },
+     {
+      "name": "Schoolbag Girls Junior High School College Students",
+      "price": "$32.37",
+      "image": "images/bags collection/school7.webp"
+    },
+     {
+      "name": "Glow-in-the-Dark Backpack with USB Charging Port",
+      "price": "$66.99",
+      "image": "images/bags collection/school8.webp"
+    },
+     {
+      "name": "Marvel Spider-Man Plush Backpack",
+      "price": "$29.45",
+      "image": "images/bags collection/school9.webp"
+    },
+     {
+      "name": "Lightweight School Backpack for Middle School Students",
+      "price": "$65.66",
+      "image": "images/bags collection/school10.webp"
+    },
+     {
+      "name": "Visually Appealing Casual School Bag",
+      "price": "$43.33",
+      "image": "images/bags collection/school11.webp"
+    }, {
+      "name": "Trendy Harajuku Backpack for College, Travel",
+      "price": "$62.01",
+      "image": "images/bags collection/school12.webp"
+    }, {
+      "name": "Chic Pink Nylon Backpack for Women",
+      "price": "$75.99",
+      "image": "images/bags collection/school13.webp"
+    }, {
+      "name": " Rainbow Heart Backpack Set: 41.91cm Double Shoulder Backpack",
+      "price": "$21.90",
+      "image": "images/bags collection/school14.webp"
+    }, {
+      "name": "Campus Backpack Students Sports Storage Bags",
+      "price": "23.34",
+      "image": "images/bags collection/school15.webp"
+    },
+    {
+      "name": "Sanrio Cinnamoroll Large Capacity Backpack with 50 Stickers",
+      "price": "$76.00",
+      "image": "images/bags collection/school16.webp"
+    }
+  ]
+
+}
