@@ -11,8 +11,30 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-
     <link rel="stylesheet" href="stylesheet/style.css">
+
+    <style>
+        .sale-section1 {
+            position: relative;
+            width: 100%;
+            height: 70vh;
+            background: url("images/categoriespage.webp")no-repeat center/cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 0%;
+        }
+
+        .sale-section1::after {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(57, 50, 50, 0.35);
+        }
+    </style>
 
 </head>
 
@@ -27,38 +49,24 @@
             <div>first</div>
             <div>second</div>
             <div>third</div>
-
         </div>
-        <section class="sale-section">
+        <section class="sale-section1">
             <div class="hero-overlay">
-                <h4>Special Offer</h4>
-                <h1>Up to 70% OFF</h1>
+                <h4>Unleash Your Inner Glam</h4>
+                <h1 style="font-size: 44px; padding: 0px 40px;">Our collection brings you everything you need to express
+                    your unique style</h1>
             </div>
         </section>
-        <!-- <div class="main-container">
-            <div class="herocontainer" style="background-color: #CDBFA5;">
-                <div class=" text-container p-19">
-                    <h1>Get Exclusive Offers!</h1>
-                    <p>Discover our carefully curated collection across multiple categories. <br>From everyday
-                        essentials to premium picks, find everything you need in one place..</p>
-                    <button class="collection-button"> SHOP THE COLLECTION</button>
-                </div>
-                <div class="image-container">
-                    <img src="./images/category.jpg" alt="">
-                </div>
-            </div>
-        </div> -->
-        <!-- step2  -->
+
 
         <div class="container-cards">
             <h2 class="d-flex justify-content-center p-4 ">Latest Collections</h2>
             <div class="row row-cols-1 row-cols-md-4 row-cols-sm-3 g-4 px-[70px] ">
                 <div class="col h-100">
-                    <div class="card h-100 card product-card" data-price="$2.32" data-offer="20% OFF" data-rating="⭐⭐⭐⭐⭐"
-                        data-description="Flower Honey Lip Balm Moisturizing and Nourishing Dry Lips Repairing
+                    <div class="card h-100 card product-card" data-price="$2.32" data-offer="20% OFF"
+                        data-rating="⭐⭐⭐⭐⭐" data-description="Flower Honey Lip Balm Moisturizing and Nourishing Dry Lips Repairing
                                 Cracked Lips Lip-balm for Hydrating Berry-Infused Lip Gloss Shiny Finish, Long-Lasting
-                                Nourishing Lip"
-                        data-image="images/category/1.webp">
+                                Nourishing Lip" data-image="images/category/1.webp">
                         <img src="images/category/1.webp" class="card-img-top " alt="lip balm">
                         <div class="card-body">
                             <div class="rating">
@@ -78,8 +86,7 @@
                     <div class="card card product-card" data-price="$40.45" data-offer="20% OFF" data-rating="⭐⭐⭐⭐⭐"
                         data-description="Women'S Two-Piece Elegant Top with Lace Detail, Brown and White,
                                 Perfect for Casual or Formal Occasions,
-                                Casual Attire|Elegant Top"
-                        data-image="images/category/2.webp">
+                                Casual Attire|Elegant Top" data-image="images/category/2.webp">
                         <img src="images/category/2.webp" class="card-img-top" alt="women top">
                         <div class="card-body">
                             <div class="rating">
@@ -118,8 +125,7 @@
                     <div class="card card product-card" data-price="$.24" data-offer="20% OFF" data-rating="⭐⭐⭐⭐⭐"
                         data-description="1pc Women's Pink Butterfly Tassel Headband, Daily and Festive Hair
                                 Accessory for s
-                                | Multi-Layer for Women's Daily Wear"
-                        data-image="images/category/4.webp">
+                                | Multi-Layer for Women's Daily Wear" data-image="images/category/4.webp">
                         <img src="images/category/4.webp" class="card-img-top " alt="jewelley">
                         <div class="card-body">
                             <div class="rating">
@@ -203,8 +209,7 @@
                     <div class="card h-100 product-card" data-price="$0.78" data-offer="20% OFF" data-rating="⭐⭐⭐⭐⭐"
                         data-description="Classic and trendy accessories that make a bold and classic style
                                 statement
-                                while keeping your essentials within reach"
-                        data-image="images/category/5.jpg">
+                                while keeping your essentials within reach" data-image="images/category/5.jpg">
                         <img src="images/category/5.jpg" class="card-img-top " alt="...">
                         <div class="card-body">
                             <div class="rating">
@@ -657,10 +662,7 @@
 
 
                 <div class="col-md-3">
-                    <div class="card product-card" 
-                    data-price="$37.99"
-                     data-offer="20% OFF" 
-                     data-rating="⭐⭐⭐⭐⭐"
+                    <div class="card product-card" data-price="$37.99" data-offer="20% OFF" data-rating="⭐⭐⭐⭐⭐"
                         data-description="FIDM Women'S Handbag Set, Fashionable Blue Floral Embroidered Tote with Matching Wallet and Bag, Zip Closure, Polyester Lined, Edge Painted, Stylish Office or Evening Bag Combo"
                         data-image="images/category/bag4.jpg">
 
